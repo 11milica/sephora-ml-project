@@ -1,0 +1,2348 @@
+product_id,brand_name,price_usd,primary_category
+P504322,NUDESTIX,19.0,Skincare
+P420652,LANEIGE,24.0,Skincare
+P7880,fresh,39.0,Skincare
+P218700,Josie Maran,49.0,Skincare
+P248407,First Aid Beauty,38.0,Skincare
+P269122,Dr. Dennis Gross Skincare,92.0,Skincare
+P394639,belif,38.0,Skincare
+P417238,Farmacy,36.0,Skincare
+P450271,Farmacy,60.0,Skincare
+P427421,Drunk Elephant,68.0,Skincare
+P411387,Youth To The People,39.0,Skincare
+P441644,Youth To The People,14.0,Skincare
+P427417,The Ordinary,6.0,Skincare
+P309308,Sunday Riley,122.0,Skincare
+P411540,Dr. Jart+,52.0,Skincare
+P42204,Rosebud Perfume Co.,7.0,Skincare
+P471546,Dr. Jart+,21.0,Skincare
+P248404,First Aid Beauty,24.0,Skincare
+P443352,Dermalogica,18.0,Skincare
+P423688,Dermalogica,65.0,Skincare
+P421275,Peace Out,19.0,Skincare
+P297524,Origins,17.0,Skincare
+P394624,belif,38.0,Skincare
+P429952,Summer Fridays,49.0,Skincare
+P480630,Summer Fridays,26.0,Skincare
+P126301,CLINIQUE,38.0,Skincare
+P453816,CLINIQUE,14.0,Skincare
+P456412,KORRES,28.0,Skincare
+P418218,Tatcha,70.0,Skincare
+P454794,Tatcha,22.0,Skincare
+P122900,CLINIQUE,32.5,Skincare
+P409800,SEPHORA COLLECTION,3.0,Skincare
+P427419,The Ordinary,15.7,Skincare
+P460779,bareMinerals,65.0,Skincare
+P443563,LANEIGE,18.0,Skincare
+P12573,Jack Black,10.0,Skincare
+P270594,Bobbi Brown,66.0,Skincare
+P392246,Drunk Elephant,90.0,Skincare
+P433520,Charlotte Tilbury,100.0,Skincare
+P481817,Caudalie,49.0,Skincare
+P458219,Glow Recipe,34.0,Skincare
+P467762,Glow Recipe,15.0,Skincare
+P297516,Origins,27.0,Skincare
+P454380,Supergoop!,48.0,Skincare
+P470255,Supergoop!,22.0,Skincare
+P442563,The Ordinary,9.5,Skincare
+P480612,KORRES,38.5,Skincare
+P232903,Kate Somerville,28.0,Skincare
+P441101,Tatcha,70.0,Skincare
+P378852,Origins,36.0,Skincare
+P456207,KORRES,38.5,Skincare
+P232915,Kate Somerville,98.0,Skincare
+P455364,The INKEY List,11.99,Skincare
+P478030,The INKEY List,5.99,Skincare
+P422905,belif,48.0,Skincare
+P430337,OLEHENRIKSEN,51.0,Skincare
+P302103,fresh,28.0,Skincare
+P439061,OLEHENRIKSEN,35.0,Skincare
+P375849,SK-II,245.0,Skincare
+P426183,SK-II,99.0,Skincare
+P456398,Shiseido,50.0,Skincare
+P94421,Caudalie,82.0,Skincare
+P427406,The Ordinary,13.0,Skincare
+P431180,Isle of Paradise,32.0,Skincare
+P173726,Shiseido,13.0,Skincare
+P479839,Estée Lauder,98.0,Skincare
+P481084,Estée Lauder,64.0,Skincare
+P426836,Drunk Elephant,34.0,Skincare
+P421235,Clarins,90.0,Skincare
+P4016,Murad,36.0,Skincare
+P278317,First Aid Beauty,36.0,Skincare
+P406712,Drunk Elephant,49.0,Skincare
+P415777,Drunk Elephant,80.0,Skincare
+P421996,Kiehl's Since 1851,78.0,Skincare
+P422510,Kiehl's Since 1851,24.0,Skincare
+P411403,IT Cosmetics,20.0,Skincare
+P415771,Tatcha,110.0,Skincare
+P473160,Tatcha,65.0,Skincare
+P442840,Skinfix,54.0,Skincare
+P461537,Tatcha,40.0,Skincare
+P479860,Skinfix,20.0,Skincare
+P440651,Murad,14.0,Skincare
+P504595,Tatcha,18.0,Skincare
+P393718,Sunday Riley,105.0,Skincare
+P42205,Rosebud Perfume Co.,8.0,Skincare
+P376726,tarte,48.0,Skincare
+P12336,fresh,64.0,Skincare
+P461159,Estée Lauder,115.0,Skincare
+P461160,Estée Lauder,19.0,Skincare
+P461933,Estée Lauder,195.0,Skincare
+P266126,Rosebud Perfume Co.,7.0,Skincare
+P427536,Tatcha,40.0,Skincare
+P504615,Tatcha,18.0,Skincare
+P440307,Youth To The People,52.0,Skincare
+P461555,Youth To The People,18.0,Skincare
+P422536,Origins,40.0,Skincare
+P410400,Sunday Riley,80.0,Skincare
+P455676,Wishful,39.0,Skincare
+P458216,Wishful,21.0,Skincare
+P139000,CLINIQUE,23.5,Skincare
+P421243,fresh,19.0,Skincare
+P466123,Glow Recipe,35.0,Skincare
+P456213,goop,125.0,Skincare
+P459299,goop,42.0,Skincare
+P381030,CLINIQUE,32.5,Skincare
+P427416,The Ordinary,8.9,Skincare
+P433887,Biossance,60.0,Skincare
+P432829,Youth To The People,58.0,Skincare
+P463371,Youth To The People,18.0,Skincare
+P427414,The Ordinary,6.5,Skincare
+P456218,Supergoop!,38.0,Skincare
+P399623,Tatcha,49.0,Skincare
+P432668,Drunk Elephant,38.0,Skincare
+P283501,Josie Maran,36.0,Skincare
+P479734,CLINIQUE,57.0,Skincare
+P446938,Drunk Elephant,62.0,Skincare
+P164932,Rosebud Perfume Co.,8.0,Skincare
+P443845,The INKEY List,9.99,Skincare
+P475908,belif,22.0,Skincare
+P472454,Caudalie,38.0,Skincare
+P434548,Farmacy,60.0,Skincare
+P400207,Herbivore,50.0,Skincare
+P428819,Glow Recipe,39.0,Skincare
+P462699,Glow Recipe,45.0,Skincare
+P403818,Drunk Elephant,18.0,Skincare
+P500718,CLINIQUE,68.0,Skincare
+P447791,Glow Recipe,42.0,Skincare
+P500633,fresh,80.0,Skincare
+P446930,LANEIGE,33.0,Skincare
+P392235,Tatcha,50.0,Skincare
+P460512,Tatcha,24.0,Skincare
+P415701,Peter Thomas Roth,54.0,Skincare
+P415237,First Aid Beauty,32.0,Skincare
+P471237,fresh,46.0,Skincare
+P500701,Estée Lauder,72.0,Skincare
+P418346,Sunday Riley,85.0,Skincare
+P448207,OLEHENRIKSEN,52.0,Skincare
+P397890,Origins,32.0,Skincare
+P405599,tarte,39.0,Skincare
+P468351,CLINIQUE,82.0,Skincare
+P426340,Tatcha,68.0,Skincare
+P476414,Sunday Riley,65.0,Skincare
+P297517,Origins,20.0,Skincare
+P440312,fresh,56.0,Skincare
+P12045,Caudalie,12.0,Skincare
+P377561,Peter Thomas Roth,49.0,Skincare
+P450917,Peter Thomas Roth,16.0,Skincare
+P424948,Sunday Riley,65.0,Skincare
+P416816,OLEHENRIKSEN,35.0,Skincare
+P453253,MILK MAKEUP,38.0,Skincare
+P411388,Youth To The People,48.0,Skincare
+P473267,CLINIQUE,71.0,Skincare
+P422000,Kiehl's Since 1851,36.0,Skincare
+P392245,Drunk Elephant,68.0,Skincare
+P440925,Origins,32.0,Skincare
+P122774,CLINIQUE,37.0,Skincare
+P386197,Origins,27.0,Skincare
+P427415,The Ordinary,10.9,Skincare
+P174502,CLINIQUE,37.0,Skincare
+P439058,Tatcha,89.0,Skincare
+P427420,The Ordinary,30.8,Skincare
+P39274,Peter Thomas Roth,39.0,Skincare
+P449599,Peter Thomas Roth,12.0,Skincare
+P400259,Drunk Elephant,78.0,Skincare
+P379510,Lancôme,132.0,Skincare
+P443840,The INKEY List,10.99,Skincare
+P54509,Lancôme,39.0,Skincare
+P428250,Peace Out,19.0,Skincare
+P447780,Tatcha,62.0,Skincare
+P230538,Evian,17.0,Skincare
+P443833,The INKEY List,11.99,Skincare
+P429242,Shiseido,30.0,Skincare
+P114902,Peter Thomas Roth,48.0,Skincare
+P442566,Drunk Elephant,36.0,Skincare
+P431848,OLEHENRIKSEN,41.0,Skincare
+P453825,Lancôme,54.0,Skincare
+P402718,Sunday Riley,72.0,Skincare
+P447592,Dr. Dennis Gross Skincare,68.0,Skincare
+P442594,SEPHORA COLLECTION,20.0,Skincare
+P429515,Drunk Elephant,64.0,Skincare
+P416563,Biossance,74.0,Skincare
+P473322,OLEHENRIKSEN,60.0,Skincare
+P415619,Dior,130.0,Skincare
+P456392,innisfree,16.0,Skincare
+P479327,Glow Recipe,39.0,Skincare
+P500472,Glow Recipe,21.0,Skincare
+P416815,OLEHENRIKSEN,33.0,Skincare
+P482320,Supergoop!,22.0,Skincare
+P460516,Glow Recipe,32.0,Skincare
+P456418,KORRES,50.0,Skincare
+P433435,IT Cosmetics,44.0,Skincare
+P448203,Shiseido,64.0,Skincare
+P470529,Glow Recipe,45.0,Skincare
+P404338,Josie Maran,45.0,Skincare
+P466155,Tatcha,89.0,Skincare
+P503936,fresh,95.0,Skincare
+P377533,Dr. Dennis Gross Skincare,92.0,Skincare
+P416341,La Mer,380.0,Skincare
+P426501,La Mer,100.0,Skincare
+P122882,CLINIQUE,20.0,Skincare
+P411539,Dr. Jart+,49.0,Skincare
+P419222,Drunk Elephant,34.0,Skincare
+P474938,Caudalie,52.0,Skincare
+P458209,Farmacy,42.0,Skincare
+P417936,fresh,46.0,Skincare
+P415747,Sol de Janeiro,18.0,Skincare
+P454018,Tatcha,49.0,Skincare
+P482739,Shiseido,50.0,Skincare
+P434360,Origins,52.0,Skincare
+P462336,belif,38.0,Skincare
+P467038,Peace Out,28.0,Skincare
+P463036,Farmacy,48.0,Skincare
+P404795,MILK MAKEUP,28.0,Skincare
+P439055,Algenist,98.0,Skincare
+P481989,Glow Recipe,35.0,Skincare
+P427413,The Ordinary,8.9,Skincare
+P203616,REN Clean Skincare,58.0,Skincare
+P466142,OLEHENRIKSEN,35.0,Skincare
+P446421,Origins,40.0,Skincare
+P439926,Drunk Elephant,74.0,Skincare
+P445827,fresh,33.0,Skincare
+P422430,Lancôme,48.0,Skincare
+P471535,belif,45.0,Skincare
+P434545,OLEHENRIKSEN,60.0,Skincare
+P428095,REN Clean Skincare,40.0,Skincare
+P465368,REN Clean Skincare,22.0,Skincare
+P442858,fresh,29.0,Skincare
+P423148,Dermalogica,49.0,Skincare
+P443350,Dermalogica,15.0,Skincare
+P453225,Tatcha,29.0,Skincare
+P3617,Peter Thomas Roth,52.0,Skincare
+P474953,GUERLAIN,145.0,Skincare
+P476513,GUERLAIN,55.0,Skincare
+P468658,innisfree,16.0,Skincare
+P377570,Josie Maran,28.0,Skincare
+P456208,goop,125.0,Skincare
+P459301,goop,45.0,Skincare
+P122718,CLINIQUE,26.0,Skincare
+P482742,Shiseido,38.0,Skincare
+P427397,Dr. Brandt Skincare,54.0,Skincare
+P469502,Paula's Choice,34.0,Skincare
+P448937,Sunday Riley,65.0,Skincare
+P421998,Kiehl's Since 1851,56.0,Skincare
+P445951,Kiehl's Since 1851,30.0,Skincare
+P434336,KORA Organics,28.0,Skincare
+P421277,Algenist,115.0,Skincare
+P455936,Summer Fridays,24.0,Skincare
+P405096,tarte,12.0,Skincare
+P500777,fresh,25.0,Skincare
+P467602,Algenist,68.0,Skincare
+P379064,Clarins,65.0,Skincare
+P474843,Lancôme,150.0,Skincare
+P422003,Kiehl's Since 1851,59.0,Skincare
+P473126,Paula's Choice,52.0,Skincare
+P442989,tarte,42.0,Skincare
+P302900,CLINIQUE,53.0,Skincare
+P469528,Paula's Choice,42.0,Skincare
+P385262,Shiseido,40.0,Skincare
+P385773,Dr. Dennis Gross Skincare,72.0,Skincare
+P410883,Peter Thomas Roth,39.0,Skincare
+P429637,La Mer,200.0,Skincare
+P500778,HABIT,30.0,Skincare
+P483128,Dr. Zenovia Skincare,48.0,Skincare
+P480278,Biossance,35.0,Skincare
+P450211,fresh,28.0,Skincare
+P423157,Moon Juice,38.0,Skincare
+P446630,PMD,179.0,Skincare
+P379709,Tata Harper,130.0,Skincare
+P439672,SEPHORA COLLECTION,22.0,Skincare
+P386755,HUM Nutrition,40.0,Skincare
+P413613,Dr. Dennis Gross Skincare,159.0,Skincare
+P440658,Drunk Elephant,22.0,Skincare
+P447200,tarte,39.0,Skincare
+P504277,Kate McLeod,68.0,Skincare
+P469524,Paula's Choice,37.0,Skincare
+P395389,GLO Science,65.0,Skincare
+P500002,JLo Beauty,64.0,Skincare
+P410756,SK-II,245.0,Skincare
+P451748,SOBEL SKIN Rx,75.0,Skincare
+P476733,Supergoop!,38.0,Skincare
+P476683,FaceGym,75.0,Skincare
+P397622,Dr. Jart+,7.0,Skincare
+P411881,Kate Somerville,98.0,Skincare
+P482696,LANEIGE,43.0,Skincare
+P471097,Shani Darden Skin Care,399.0,Skincare
+P408301,Tata Harper,75.0,Skincare
+P447199,TAN-LUXE,49.0,Skincare
+P394702,Origins,58.0,Skincare
+P503920,Shani Darden Skin Care,125.0,Skincare
+P502986,SEPHORA COLLECTION,22.0,Skincare
+P470240,OLEHENRIKSEN,56.0,Skincare
+P474844,Lancôme,135.0,Skincare
+P440933,Origins,17.0,Skincare
+P500318,JLo Beauty,58.0,Skincare
+P482025,Lancôme,270.0,Skincare
+P440483,Mario Badescu,7.0,Skincare
+P484081,TULA Skincare,56.0,Skincare
+P473148,Naturally Serious,27.0,Skincare
+P453818,Algenist,58.0,Skincare
+P377178,Murad,89.0,Skincare
+P476726,REN Clean Skincare,38.0,Skincare
+P398502,PMD,199.0,Skincare
+P429522,Kiehl's Since 1851,68.0,Skincare
+P504506,Tatcha,98.0,Skincare
+P505211,Supergoop!,36.0,Skincare
+P444967,Mario Badescu,5.0,Skincare
+P483700,The Outset,42.0,Skincare
+P433519,Charlotte Tilbury,145.0,Skincare
+P471041,iNNBEAUTY PROJECT,28.0,Skincare
+P470535,Kate Somerville,98.0,Skincare
+P464242,Dr. Zenovia Skincare,72.0,Skincare
+P442854,Dr. Jart+,20.0,Skincare
+P455212,SEPHORA COLLECTION,12.0,Skincare
+P436365,Kate Somerville,110.0,Skincare
+P392143,Tata Harper,75.0,Skincare
+P399755,GLO Science,49.0,Skincare
+P444614,Isle of Paradise,32.0,Skincare
+P468850,ROSE Ingleton MD,85.0,Skincare
+P502997,Peace Out,34.0,Skincare
+P416344,La Mer,95.0,Skincare
+P502046,Origins,36.0,Skincare
+P500113,Community Sixty-Six,16.0,Skincare
+P442859,Algenist,38.0,Skincare
+P392472,CLINIQUE,23.5,Skincare
+P504637,Hourglass,110.0,Skincare
+P460554,SEPHORA COLLECTION,17.0,Skincare
+P503927,Dr. Dennis Gross Skincare,12.0,Skincare
+P380027,Estée Lauder,30.0,Skincare
+P433975,Naturally Serious,26.0,Skincare
+P388262,Algenist,74.0,Skincare
+P500109,Community Sixty-Six,18.0,Skincare
+P448537,The INKEY List,12.99,Skincare
+P407040,CLINIQUE,52.0,Skincare
+P446916,Skinfix,35.0,Skincare
+P474110,StriVectin,72.0,Skincare
+P461936,FOREO,219.0,Skincare
+P446638,Dermalogica,19.0,Skincare
+P412117,Kate Somerville,56.0,Skincare
+P469196,SEPHORA COLLECTION,10.0,Skincare
+P504325,Glow Recipe,52.0,Skincare
+P449102,INC.redible,12.0,Skincare
+P397465,Rosebud Perfume Co.,8.0,Skincare
+P483698,The Outset,44.0,Skincare
+P471761,Drunk Elephant,28.0,Skincare
+P483661,Herbivore,62.0,Skincare
+P501166,Dr. Dennis Gross Skincare,72.0,Skincare
+P483696,The Outset,32.0,Skincare
+P503991,MARA,72.0,Skincare
+P504026,MARA,40.0,Skincare
+P503878,OLEHENRIKSEN,22.0,Skincare
+P433618,Shiseido,36.0,Skincare
+P500746,First Aid Beauty,40.0,Skincare
+P503652,TULA Skincare,58.0,Skincare
+P500117,HABIT,30.0,Skincare
+P460758,Dr. Brandt Skincare,56.0,Skincare
+P440317,Peter Thomas Roth,72.0,Skincare
+P501421,EADEM,30.0,Skincare
+P482327,The Ordinary,9.0,Skincare
+P430813,Lancôme,15.0,Skincare
+P457694,Algenist,85.0,Skincare
+P501031,Dr. Jart+,40.0,Skincare
+P483701,The Outset,50.0,Skincare
+P504988,DAMDAM,47.0,Skincare
+P454821,FOREO,179.0,Skincare
+P417625,Dr. Brandt Skincare,58.0,Skincare
+P468149,HUM Nutrition,30.0,Skincare
+P464244,Dr. Zenovia Skincare,38.0,Skincare
+P475172,Sulwhasoo,54.0,Skincare
+P440929,Origins,17.0,Skincare
+P440926,Origins,17.0,Skincare
+P385320,NuFACE,449.0,Skincare
+P433468,Kate Somerville,68.0,Skincare
+P402992,NuFACE,429.0,Skincare
+P464240,Dr. Zenovia Skincare,42.0,Skincare
+P483146,SEPHORA COLLECTION,14.0,Skincare
+P410755,SK-II,225.0,Skincare
+P444225,Dr. Brandt Skincare,36.0,Skincare
+P429661,Dr. Brandt Skincare,50.0,Skincare
+P429526,Murad,85.0,Skincare
+P505160,La Mer,380.0,Skincare
+P475112,innisfree,24.0,Skincare
+P393501,CLINIQUE,23.5,Skincare
+P383052,Dr. Brandt Skincare,67.0,Skincare
+P403748,fresh,75.0,Skincare
+P377919,Origins,36.0,Skincare
+P468672,innisfree,18.0,Skincare
+P482675,FaceGym,65.0,Skincare
+P464237,Dr. Zenovia Skincare,64.0,Skincare
+P469086,SEPHORA COLLECTION,8.0,Skincare
+P395417,iluminage,449.0,Skincare
+P467972,Saint Jane Beauty,90.0,Skincare
+P447504,Algenist,85.0,Skincare
+P482510,Augustinus Bader,290.0,Skincare
+P475540,Farmacy,74.0,Skincare
+P455618,COOLA,36.0,Skincare
+P460627,Sunday Riley,20.0,Skincare
+P455931,Shani Darden Skin Care,52.0,Skincare
+P433974,Naturally Serious,39.0,Skincare
+P429659,Biossance,32.0,Skincare
+P480165,Farmacy,42.0,Skincare
+P392004,Clarins,65.0,Skincare
+P504849,Glow Recipe,54.0,Skincare
+P500614,Hyper Skin,28.0,Skincare
+P463613,CLINIQUE,44.0,Skincare
+P469111,Kate Somerville,140.0,Skincare
+P392142,Tata Harper,88.0,Skincare
+P442540,Alpha-H,65.0,Skincare
+P442853,Dr. Jart+,20.0,Skincare
+P463964,Sunday Riley,48.0,Skincare
+P379995,Estée Lauder,120.0,Skincare
+P379705,Tata Harper,76.0,Skincare
+P471045,Kate Somerville,54.0,Skincare
+P471042,iNNBEAUTY PROJECT,24.0,Skincare
+P471567,Origins,27.0,Skincare
+P475180,TULA Skincare,49.0,Skincare
+P502322,iNNBEAUTY PROJECT,36.0,Skincare
+P440072,KORA Organics,52.0,Skincare
+P374115,CLINIQUE,44.0,Skincare
+P474121,StriVectin,82.0,Skincare
+P468709,The Ordinary,6.4,Skincare
+P455622,CLINIQUE,85.0,Skincare
+P440484,Mario Badescu,7.0,Skincare
+P422004,Kiehl's Since 1851,38.0,Skincare
+P2046,Evian,23.5,Skincare
+P469112,Kate Somerville,140.0,Skincare
+P474940,CLINIQUE,21.0,Skincare
+P505338,alpyn beauty,39.0,Skincare
+P424985,TAN-LUXE,48.0,Skincare
+P472467,GLO Science,25.0,Skincare
+P474839,HUM Nutrition,50.0,Skincare
+P421271,Kate Somerville,76.0,Skincare
+P482328,The Ordinary,6.5,Skincare
+P469517,Paula's Choice,29.0,Skincare
+P480608,Hourglass,68.0,Skincare
+P502200,Kate Somerville,78.0,Skincare
+P432421,SEPHORA COLLECTION,5.5,Skincare
+P503809,First Aid Beauty,44.0,Skincare
+P456991,CLINIQUE,32.0,Skincare
+P450587,Naturally Serious,39.0,Skincare
+P383051,Dr. Brandt Skincare,132.0,Skincare
+P474838,HUM Nutrition,26.0,Skincare
+P438643,BeautyBio,39.0,Skincare
+P404169,Algenist,70.0,Skincare
+P471040,iNNBEAUTY PROJECT,22.0,Skincare
+P479701,Kate Somerville,68.0,Skincare
+P402943,Slip,110.0,Skincare
+P504523,Glossier,26.0,Skincare
+P440306,tarte,14.0,Skincare
+P401570,Origins,37.0,Skincare
+P382356,Kate Somerville,98.0,Skincare
+P454771,lilah b.,14.0,Skincare
+P502197,Kate Somerville,76.0,Skincare
+P444013,SEPHORA COLLECTION,35.0,Skincare
+P456413,KORRES,16.0,Skincare
+P450947,Drunk Elephant,28.0,Skincare
+P438628,BeautyBio,65.0,Skincare
+P422005,Kiehl's Since 1851,38.0,Skincare
+P410101,CLINIQUE,31.0,Skincare
+P500753,Charlotte Tilbury,55.0,Skincare
+P442539,Alpha-H,65.0,Skincare
+P476679,FaceGym,65.0,Skincare
+P447773,SK-II,99.0,Skincare
+P438635,BeautyBio,39.0,Skincare
+P399656,First Aid Beauty,30.0,Skincare
+P453822,Dr. Brandt Skincare,71.0,Skincare
+P503683,Peace Out,19.0,Skincare
+P481341,Dr. Dennis Gross Skincare,72.0,Skincare
+P482005,HUM Nutrition,40.0,Skincare
+P399622,Tatcha,95.0,Skincare
+P459131,OLEHENRIKSEN,65.0,Skincare
+P431733,Kiehl's Since 1851,46.0,Skincare
+P502479,Youth To The People,42.0,Skincare
+P386759,HUM Nutrition,26.0,Skincare
+P412407,Tata Harper,130.0,Skincare
+P469110,Kate Somerville,110.0,Skincare
+P475907,Augustinus Bader,390.0,Skincare
+P476894,NUDESTIX,35.0,Skincare
+P500111,HUM Nutrition,45.0,Skincare
+P440490,Mario Badescu,15.0,Skincare
+P378219,Shiseido,72.0,Skincare
+P502749,The INKEY List,17.99,Skincare
+P479703,Kate Somerville,44.0,Skincare
+P408241,Origins,73.0,Skincare
+P422428,Lancôme,57.0,Skincare
+P504016,MARA,66.0,Skincare
+P504031,MARA,120.0,Skincare
+P502691,The INKEY List,24.99,Skincare
+P461161,First Aid Beauty,26.0,Skincare
+P395723,COOLA,28.0,Skincare
+P401158,PMD,159.0,Skincare
+P404168,Algenist,85.0,Skincare
+P442546,Alpha-H,38.0,Skincare
+P446629,PMD,149.0,Skincare
+P481086,FaceGym,60.0,Skincare
+P500160,Naturally Serious,36.0,Skincare
+P473336,Youth To The People,59.0,Skincare
+P469478,INC.redible,20.0,Skincare
+P411360,Dr. Dennis Gross Skincare,52.0,Skincare
+P475188,TULA Skincare,58.0,Skincare
+P473723,Saint Jane Beauty,68.0,Skincare
+P476678,FaceGym,70.0,Skincare
+P465808,SEPHORA COLLECTION,12.0,Skincare
+P434340,Mount Lai,40.0,Skincare
+P454395,fresh,21.0,Skincare
+P379704,Tata Harper,165.0,Skincare
+P440502,Mario Badescu,18.0,Skincare
+P474972,The INKEY List,13.99,Skincare
+P406941,Clarins,59.0,Skincare
+P454090,Moon Juice,58.0,Skincare
+P467028,Kate Somerville,72.0,Skincare
+P475906,Augustinus Bader,220.0,Skincare
+P476540,Isle of Paradise,30.0,Skincare
+P447597,The Ordinary,8.5,Skincare
+P502169,Skinfix,40.0,Skincare
+P480603,First Aid Beauty,26.0,Skincare
+P404232,Kate Somerville,110.0,Skincare
+P469513,Paula's Choice,15.0,Skincare
+P440486,Mario Badescu,18.0,Skincare
+P502741,The INKEY List,17.99,Skincare
+P476893,NUDESTIX,39.0,Skincare
+P440485,Mario Badescu,14.0,Skincare
+P501316,TULA Skincare,68.0,Skincare
+P475143,NUDESTIX,29.0,Skincare
+P483496,The Ordinary,6.5,Skincare
+P437960,Wander Beauty,26.0,Skincare
+P474957,Isle of Paradise,24.0,Skincare
+P417107,La Mer,320.0,Skincare
+P476674,FaceGym,38.0,Skincare
+P480444,Farmacy,60.0,Skincare
+P469087,Fenty Skin,36.0,Skincare
+P479840,First Aid Beauty,30.0,Skincare
+P397625,Dr. Jart+,9.0,Skincare
+P447783,Dr. Barbara Sturm,75.0,Skincare
+P232920,Kate Somerville,140.0,Skincare
+P450210,fresh,28.0,Skincare
+P437477,REN Clean Skincare,34.0,Skincare
+P388982,HUM Nutrition,25.0,Skincare
+P448562,Skinfix,32.0,Skincare
+P457002,Moon Juice,60.0,Skincare
+P476675,FaceGym,68.0,Skincare
+P500705,FaceGym,48.0,Skincare
+P441045,Herbivore,25.0,Skincare
+P444968,Mario Badescu,5.0,Skincare
+P452004,Herbivore,36.0,Skincare
+P481408,CANOPY,150.0,Skincare
+P502710,The INKEY List,17.99,Skincare
+P417118,La Mer,105.0,Skincare
+P449156,Jillian Dempsey,195.0,Skincare
+P469454,Danessa Myricks Beauty,30.0,Skincare
+P406942,Clarins,62.0,Skincare
+P448710,Dr. Brandt Skincare,38.0,Skincare
+P447789,Dr. Barbara Sturm,150.0,Skincare
+P475189,TULA Skincare,46.0,Skincare
+P478020,Naturally Serious,19.0,Skincare
+P501017,FaceGym,70.0,Skincare
+P461521,SEPHORA COLLECTION,5.0,Skincare
+P469515,Paula's Choice,22.0,Skincare
+P469831,Hourglass,82.0,Skincare
+P461162,First Aid Beauty,30.0,Skincare
+P386760,HUM Nutrition,30.0,Skincare
+P386764,HUM Nutrition,26.0,Skincare
+P442841,Skinfix,15.0,Skincare
+P455217,SEPHORA COLLECTION,17.0,Skincare
+P433884,Dr. Jart+,9.0,Skincare
+P424984,TAN-LUXE,49.0,Skincare
+P501790,Wishful,39.0,Skincare
+P481390,Paula's Choice,37.0,Skincare
+P427729,Dior,110.0,Skincare
+P474109,StriVectin,45.0,Skincare
+P474122,StriVectin,119.0,Skincare
+P478021,Naturally Serious,39.0,Skincare
+P439626,fresh,72.0,Skincare
+P386757,HUM Nutrition,26.0,Skincare
+P432662,Herbivore,40.0,Skincare
+P407381,CLINIQUE,34.0,Skincare
+P397626,Dr. Jart+,9.0,Skincare
+P409834,Origins,73.0,Skincare
+P456957,SEPHORA COLLECTION,20.0,Skincare
+P481710,Hyper Skin,48.0,Skincare
+P469527,Paula's Choice,35.0,Skincare
+P440489,Mario Badescu,16.0,Skincare
+P440501,Mario Badescu,22.0,Skincare
+P375864,SK-II,170.0,Skincare
+P421249,La Mer,320.0,Skincare
+P502756,The INKEY List,19.99,Skincare
+P482754,TULA Skincare,38.0,Skincare
+P472024,DAMDAM,48.0,Skincare
+P504059,MARA,96.0,Skincare
+P433522,Charlotte Tilbury,58.0,Skincare
+P406529,Estée Lauder,48.0,Skincare
+P442734,L'Occitane,65.0,Skincare
+P173622,Shiseido,70.0,Skincare
+P405827,FOREO,149.0,Skincare
+P467969,PMD,299.0,Skincare
+P375854,SK-II,400.0,Skincare
+P481834,Sulwhasoo,260.0,Skincare
+P398500,PMD,159.0,Skincare
+P469516,Paula's Choice,37.0,Skincare
+P419466,St. Tropez,9.0,Skincare
+P454376,tarte,12.0,Skincare
+P477202,Moon Juice,42.0,Skincare
+P469544,The INKEY List,15.99,Skincare
+P448554,Dr. Barbara Sturm,75.0,Skincare
+P455919,KORRES,45.0,Skincare
+P467970,PMD,179.0,Skincare
+P502640,Dr. Brandt Skincare,79.0,Skincare
+P442747,St. Tropez,44.0,Skincare
+P483060,Clarins,28.0,Skincare
+P473728,SEPHORA COLLECTION,10.0,Skincare
+P504524,Glossier,19.0,Skincare
+P454385,Supergoop!,34.0,Skincare
+P482068,Saint Jane Beauty,70.0,Skincare
+P504892,iNNBEAUTY PROJECT,38.0,Skincare
+P444964,La Mer,85.0,Skincare
+P376135,Lancôme,160.0,Skincare
+P469525,Paula's Choice,42.0,Skincare
+P467651,SEPHORA COLLECTION,20.0,Skincare
+P469514,Paula's Choice,34.0,Skincare
+P417111,La Mer,260.0,Skincare
+P468818,CLINIQUE,16.0,Skincare
+P501587,CAY SKIN,22.0,Skincare
+P481060,BeautyBio,58.0,Skincare
+P475197,TULA Skincare,36.0,Skincare
+P469832,Hourglass,52.0,Skincare
+P475184,TULA Skincare,68.0,Skincare
+P458964,goop,25.0,Skincare
+P460746,Tatcha,14.0,Skincare
+P423264,Dior,110.0,Skincare
+P448711,Dr. Barbara Sturm,125.0,Skincare
+P383054,Dr. Brandt Skincare,152.0,Skincare
+P475195,TULA Skincare,64.0,Skincare
+P504446,RANAVAT,125.0,Skincare
+P440309,Mount Lai,46.0,Skincare
+P446612,Charlotte Tilbury,25.0,Skincare
+P474956,Isle of Paradise,24.0,Skincare
+P476676,FaceGym,110.0,Skincare
+P502848,FOREO,129.0,Skincare
+P484055,LANEIGE,45.0,Skincare
+P472466,fresh,18.0,Skincare
+P459116,LANEIGE,15.0,Skincare
+P471566,OLEHENRIKSEN,18.0,Skincare
+P474970,Paula's Choice,32.0,Skincare
+P422648,Estée Lauder,59.0,Skincare
+P455341,COOLA,28.0,Skincare
+P475192,TULA Skincare,34.0,Skincare
+P469833,Hourglass,65.0,Skincare
+P474111,StriVectin,69.0,Skincare
+P504199,MARA,74.0,Skincare
+P505711,The INKEY List,14.99,Skincare
+P423159,Moon Juice,38.0,Skincare
+P383308,Kate Somerville,98.0,Skincare
+P475183,TULA Skincare,34.0,Skincare
+P472341,Tata Harper,130.0,Skincare
+P408678,GUERLAIN,32.0,Skincare
+P440494,Mario Badescu,45.0,Skincare
+P449835,tarte,16.0,Skincare
+P397627,Dr. Jart+,9.0,Skincare
+P477413,iNNBEAUTY PROJECT,30.0,Skincare
+P447790,Dr. Barbara Sturm,150.0,Skincare
+P448563,CLINIQUE,74.0,Skincare
+P473724,SEPHORA COLLECTION,6.0,Skincare
+P435801,belif,38.0,Skincare
+P455610,IT Cosmetics,54.0,Skincare
+P472343,Tata Harper,88.0,Skincare
+P476680,FaceGym,35.0,Skincare
+P480191,StriVectin,99.0,Skincare
+P503926,Augustinus Bader,215.0,Skincare
+P469504,Paula's Choice,34.0,Skincare
+P427641,IT Cosmetics,20.0,Skincare
+P444969,Mario Badescu,5.0,Skincare
+P431416,La Mer,135.0,Skincare
+P500399,CAY SKIN,38.0,Skincare
+P456989,TAN-LUXE,49.0,Skincare
+P452002,COOLA,32.0,Skincare
+P474116,StriVectin,72.0,Skincare
+P456997,Dr. Barbara Sturm,310.0,Skincare
+P474115,StriVectin,99.0,Skincare
+P454315,Moon Juice,32.0,Skincare
+P475204,TULA Skincare,48.0,Skincare
+P475193,TULA Skincare,68.0,Skincare
+P445726,SEPHORA COLLECTION,18.0,Skincare
+P399934,Estée Lauder,63.0,Skincare
+P469508,Paula's Choice,39.0,Skincare
+P455215,SEPHORA COLLECTION,17.0,Skincare
+P482740,Shiseido,35.0,Skincare
+P433617,Shiseido,36.0,Skincare
+P475186,TULA Skincare,52.0,Skincare
+P386762,HUM Nutrition,12.0,Skincare
+P461947,Kiehl's Since 1851,47.0,Skincare
+P417243,La Mer,95.0,Skincare
+P449836,tarte,12.0,Skincare
+P417114,La Mer,95.0,Skincare
+P409816,Origins,73.0,Skincare
+P504313,Youth To The People,48.0,Skincare
+P474107,StriVectin,65.0,Skincare
+P480986,SEPHORA COLLECTION,18.0,Skincare
+P481743,StriVectin,79.0,Skincare
+P469526,Paula's Choice,37.0,Skincare
+P375354,Dior,175.0,Skincare
+P475196,TULA Skincare,36.0,Skincare
+P476736,Tata Harper,146.0,Skincare
+P469512,Paula's Choice,49.0,Skincare
+P442001,Dr. Brandt Skincare,72.0,Skincare
+P470048,Origins,29.0,Skincare
+P455897,The Ordinary,20.0,Skincare
+P416538,La Mer,300.0,Skincare
+P459140,Isle of Paradise,24.0,Skincare
+P504794,Glossier,28.0,Skincare
+P482007,innisfree,13.0,Skincare
+P409920,CLINIQUE,32.0,Skincare
+P309409,CLINIQUE,74.0,Skincare
+P481742,StriVectin,99.0,Skincare
+P504050,StriVectin,99.0,Skincare
+P482312,SEPHORA COLLECTION,12.0,Skincare
+P472031,First Aid Beauty,30.0,Skincare
+P433461,Lancôme,34.0,Skincare
+P392892,Estée Lauder,70.0,Skincare
+P440496,Mario Badescu,19.0,Skincare
+P475200,TULA Skincare,66.0,Skincare
+P505047,MACRENE actives,195.0,Skincare
+P459835,Charlotte Tilbury,30.0,Skincare
+P484033,Biossance,40.0,Skincare
+P475590,Origins,29.0,Skincare
+P458733,SEPHORA COLLECTION,12.0,Skincare
+P477714,SEPHORA COLLECTION,14.0,Skincare
+P471062,Peter Thomas Roth,58.0,Skincare
+P441645,COOLA,46.0,Skincare
+P474118,StriVectin,72.0,Skincare
+P470049,REN Clean Skincare,38.0,Skincare
+P502758,StriVectin,65.0,Skincare
+P472022,DAMDAM,48.0,Skincare
+P442745,Origins,73.0,Skincare
+P479688,SEPHORA COLLECTION,10.0,Skincare
+P433469,Algenist,98.0,Skincare
+P438648,BeautyBio,129.0,Skincare
+P476436,PMD,179.0,Skincare
+P504208,LANEIGE,21.0,Skincare
+P469085,SEPHORA COLLECTION,10.0,Skincare
+P474376,TAN-LUXE,25.0,Skincare
+P468652,FOREO,299.0,Skincare
+P460010,TWEEZERMAN,10.0,Skincare
+P417323,CLINIQUE,39.0,Skincare
+P442263,Dr. Brandt Skincare,39.0,Skincare
+P447787,Dr. Barbara Sturm,370.0,Skincare
+P454937,Dr. Barbara Sturm,130.0,Skincare
+P475187,TULA Skincare,84.0,Skincare
+P501004,FaceGym,70.0,Skincare
+P504218,Tatcha,27.0,Skincare
+P469518,Paula's Choice,37.0,Skincare
+P476485,Fenty Skin,35.0,Skincare
+P482694,LANEIGE,23.0,Skincare
+P446908,Estée Lauder,92.0,Skincare
+P440491,Mario Badescu,26.0,Skincare
+P500445,Iconic London,29.0,Skincare
+P457519,Peter Thomas Roth,43.0,Skincare
+P480300,FaceGym,275.0,Skincare
+P468671,innisfree,12.0,Skincare
+P476681,FaceGym,95.0,Skincare
+P379009,Lancôme,135.0,Skincare
+P420638,Algenist,96.0,Skincare
+P468143,goop,98.0,Skincare
+P471064,Peter Thomas Roth,38.0,Skincare
+P470533,Isle of Paradise,24.0,Skincare
+P461195,SEPHORA COLLECTION,5.5,Skincare
+P423143,Dermalogica,74.0,Skincare
+P471085,SEPHORA COLLECTION,20.0,Skincare
+P504134,MARA,26.0,Skincare
+P423165,Shiseido,155.0,Skincare
+P202935,Shiseido,97.0,Skincare
+P447409,tarte,14.0,Skincare
+P482755,TULA Skincare,36.0,Skincare
+P446820,SEPHORA COLLECTION,8.0,Skincare
+P471547,Drunk Elephant,16.0,Skincare
+P416728,Dior,102.0,Skincare
+P433524,Charlotte Tilbury,60.0,Skincare
+P417115,La Mer,200.0,Skincare
+P440492,Mario Badescu,18.0,Skincare
+P481401,RANAVAT,45.0,Skincare
+P405286,CLINIQUE,64.0,Skincare
+P483151,SEPHORA COLLECTION,3.5,Skincare
+P444615,Mario Badescu,14.0,Skincare
+P442548,Alpha-H,22.0,Skincare
+P456990,Algenist,25.0,Skincare
+P428423,Shiseido,20.0,Skincare
+P470245,ROSE Ingleton MD,70.0,Skincare
+P454514,Murad,59.0,Skincare
+P457441,SEPHORA COLLECTION,20.0,Skincare
+P503562,BeautyBio,199.0,Skincare
+P440499,Mario Badescu,12.0,Skincare
+P443375,Shiseido,75.0,Skincare
+P436378,Kiehl's Since 1851,46.0,Skincare
+P422253,Kiehl's Since 1851,25.0,Skincare
+P428422,Shiseido,20.0,Skincare
+P433440,TAN-LUXE,69.0,Skincare
+P470247,ROSE Ingleton MD,70.0,Skincare
+P433155,Isle of Paradise,24.0,Skincare
+P470510,Augustinus Bader,92.0,Skincare
+P446518,Bobbi Brown,53.0,Skincare
+P455909,Mario Badescu,7.0,Skincare
+P417604,Dior,80.0,Skincare
+P442748,Tata Harper,95.0,Skincare
+P481058,alpyn beauty,25.0,Skincare
+P429676,Dior,60.0,Skincare
+P440302,Dr. Brandt Skincare,95.0,Skincare
+P457520,Peter Thomas Roth,88.0,Skincare
+P440493,Mario Badescu,28.0,Skincare
+P467650,SEPHORA COLLECTION,18.0,Skincare
+P410809,Algenist,72.0,Skincare
+P480600,Dior,45.0,Skincare
+P480280,Biossance,20.0,Skincare
+P456204,St. Tropez,25.0,Skincare
+P440923,Dior,75.0,Skincare
+P481973,Dr. Barbara Sturm,145.0,Skincare
+P442860,Algenist,40.0,Skincare
+P503820,Dermalogica,49.5,Skincare
+P501024,FaceGym,70.0,Skincare
+P483092,SEPHORA COLLECTION,17.0,Skincare
+P455227,REN Clean Skincare,28.0,Skincare
+P444470,Mount Lai,30.0,Skincare
+P416725,La Mer,255.0,Skincare
+P457439,SEPHORA COLLECTION,16.0,Skincare
+P447607,Lancôme,30.0,Skincare
+P446639,Mount Lai,36.0,Skincare
+P448715,Dr. Barbara Sturm,75.0,Skincare
+P501185,Saint Jane Beauty,28.0,Skincare
+P443550,Origins,71.0,Skincare
+P432835,KORA Organics,63.0,Skincare
+P464799,Peter Thomas Roth,65.0,Skincare
+P432256,fresh,40.0,Skincare
+P500982,LANEIGE,25.0,Skincare
+P423690,Dermalogica,48.0,Skincare
+P471086,SEPHORA COLLECTION,20.0,Skincare
+P380030,Estée Lauder,30.0,Skincare
+P500412,Iconic London,25.0,Skincare
+P456210,goop,125.0,Skincare
+P504023,MARA,52.0,Skincare
+P461200,SEPHORA COLLECTION,5.0,Skincare
+P408542,Dior,72.0,Skincare
+P422649,Estée Lauder,110.0,Skincare
+P449150,Anastasia Beverly Hills,45.0,Skincare
+P447608,Lancôme,45.0,Skincare
+P442267,COOLA,48.0,Skincare
+P481975,Dr. Dennis Gross Skincare,92.0,Skincare
+P478274,goop,48.0,Skincare
+P504040,MARA,54.0,Skincare
+P476842,Charlotte Tilbury,55.0,Skincare
+P500428,Wishful,45.0,Skincare
+P473268,DERMAFLASH,69.0,Skincare
+P503928,innisfree,12.0,Skincare
+P481339,Dr. Dennis Gross Skincare,92.0,Skincare
+P433621,Shiseido,50.0,Skincare
+P444990,Isle of Paradise,22.0,Skincare
+P408273,Estée Lauder,33.0,Skincare
+P439648,CLINIQUE,41.0,Skincare
+P505140,MACRENE actives,95.0,Skincare
+P505408,goop,58.0,Skincare
+P446822,SEPHORA COLLECTION,8.0,Skincare
+P455235,Sunday Riley,130.0,Skincare
+P468634,Bobbi Brown,99.0,Skincare
+P481699,Dr. Jart+,9.0,Skincare
+P469521,Paula's Choice,26.0,Skincare
+P461535,Sunday Riley,95.0,Skincare
+P392522,Clarins,65.0,Skincare
+P480358,The Nue Co.,18.0,Skincare
+P431419,Isle of Paradise,30.0,Skincare
+P469523,Paula's Choice,37.0,Skincare
+P474125,StriVectin,79.0,Skincare
+P476677,FaceGym,120.0,Skincare
+P482322,Supergoop!,22.0,Skincare
+P483075,SEPHORA COLLECTION,14.0,Skincare
+P405032,Estée Lauder,75.0,Skincare
+P456407,Supergoop!,34.0,Skincare
+P430338,Clarins,93.0,Skincare
+P431418,Isle of Paradise,24.0,Skincare
+P424987,TAN-LUXE,52.0,Skincare
+P451745,SOBEL SKIN Rx,46.0,Skincare
+P469200,Dr. Barbara Sturm,145.0,Skincare
+P457468,tarte,39.0,Skincare
+P469449,Clarins,30.0,Skincare
+P504288,caliray,48.0,Skincare
+P505145,BeautyBio,49.0,Skincare
+P433962,La Mer,190.0,Skincare
+P428636,La Mer,25.0,Skincare
+P408271,HUM Nutrition,40.0,Skincare
+P454939,Estée Lauder,86.0,Skincare
+P456569,Dermalogica,42.0,Skincare
+P423164,Shiseido,65.0,Skincare
+P469451,CLINIQUE,26.5,Skincare
+P456401,St. Tropez,46.0,Skincare
+P455421,Shiseido,36.0,Skincare
+P380001,Estée Lauder,59.0,Skincare
+P429508,COOLA,46.0,Skincare
+P464250,goop,65.0,Skincare
+P503294,Drunk Elephant,26.0,Skincare
+P503868,LANEIGE,35.0,Skincare
+P433466,FOREO,10.99,Skincare
+P467628,Kiehl's Since 1851,35.0,Skincare
+P472311,Fenty Skin,15.0,Skincare
+P440505,Charlotte Tilbury,46.0,Skincare
+P428637,La Mer,95.0,Skincare
+P461199,SEPHORA COLLECTION,5.5,Skincare
+P467635,Mount Lai,72.0,Skincare
+P472180,OLEHENRIKSEN,40.0,Skincare
+P474968,NuFACE,39.0,Skincare
+P423145,Dermalogica,79.0,Skincare
+P443376,Shiseido,110.0,Skincare
+P448553,Dr. Barbara Sturm,240.0,Skincare
+P405589,Clarins,59.0,Skincare
+P448558,Dr. Barbara Sturm,225.0,Skincare
+P481368,RANAVAT,70.0,Skincare
+P440500,Mario Badescu,18.0,Skincare
+P454822,tarte,15.0,Skincare
+P467106,BeautyBio,85.0,Skincare
+P470545,TAN-LUXE,49.0,Skincare
+P433619,Shiseido,36.0,Skincare
+P504786,Glossier,26.0,Skincare
+P422848,Tata Harper,230.0,Skincare
+P470246,ROSE Ingleton MD,70.0,Skincare
+P455010,goop,30.0,Skincare
+P469028,SEPHORA COLLECTION,20.0,Skincare
+P468229,Tatcha,112.0,Skincare
+P472067,SEPHORA COLLECTION,10.0,Skincare
+P392891,Estée Lauder,74.0,Skincare
+P428005,NuFACE,399.0,Skincare
+P504773,Glossier,35.0,Skincare
+P474830,FOREO,69.0,Skincare
+P500096,Community Sixty-Six,25.0,Skincare
+P504327,Tatcha,68.0,Skincare
+P436346,FOREO,21.99,Skincare
+P447604,Mount Lai,30.0,Skincare
+P483057,COOLA,18.0,Skincare
+P454391,Supergoop!,21.0,Skincare
+P474057,Jack Black,13.0,Skincare
+P456203,St. Tropez,20.0,Skincare
+P476860,Flora + Bast,77.0,Skincare
+P454377,tarte,12.0,Skincare
+P474114,StriVectin,89.0,Skincare
+P457854,Shiseido,140.0,Skincare
+P505233,Gisou,32.0,Skincare
+P505142,MACRENE actives,135.0,Skincare
+P481712,INC.redible,20.0,Skincare
+P433465,FOREO,10.99,Skincare
+P500774,SEPHORA COLLECTION,14.0,Skincare
+P460704,SEPHORA COLLECTION,20.0,Skincare
+P458573,Jack Black,22.0,Skincare
+P471011,CLINIQUE,48.0,Skincare
+P454807,Dior,80.0,Skincare
+P503262,alpyn beauty,49.0,Skincare
+P461950,La Mer,220.0,Skincare
+P449164,Algenist,84.0,Skincare
+P389097,HUM Nutrition,60.0,Skincare
+P454029,Lancôme,68.0,Skincare
+P438642,BeautyBio,39.0,Skincare
+P481837,TAN-LUXE,49.0,Skincare
+P455332,Bobbi Brown,66.0,Skincare
+P500856,Peace Out,48.0,Skincare
+P447788,Dr. Barbara Sturm,255.0,Skincare
+P458961,goop,48.0,Skincare
+P470248,ROSE Ingleton MD,70.0,Skincare
+P500012,fresh,24.0,Skincare
+P504774,Glossier,29.0,Skincare
+P468412,SK-II,110.0,Skincare
+P460511,Kate Somerville,24.0,Skincare
+P467112,Dermalogica,56.0,Skincare
+P482698,LANEIGE,31.0,Skincare
+P482697,LANEIGE,31.0,Skincare
+P503901,innisfree,39.0,Skincare
+P470508,Augustinus Bader,92.0,Skincare
+P455191,lilah b.,14.0,Skincare
+P464288,SEPHORA COLLECTION,8.0,Skincare
+P466878,Dr. Dennis Gross Skincare,18.0,Skincare
+P442537,Alpha-H,82.0,Skincare
+P456992,CLINIQUE,56.0,Skincare
+P443810,BeautyBio,75.0,Skincare
+P469448,Clarins,30.0,Skincare
+P500771,CLINIQUE,68.0,Skincare
+P479861,The Ordinary,40.7,Skincare
+P430809,DERMAFLASH,87.0,Skincare
+P423163,Shiseido,110.0,Skincare
+P410657,Clarins,79.0,Skincare
+P480150,Alpha-H,105.0,Skincare
+P481347,Paula's Choice,75.0,Skincare
+P443377,Shiseido,75.0,Skincare
+P483090,SEPHORA COLLECTION,18.0,Skincare
+P448557,Dr. Barbara Sturm,255.0,Skincare
+P448542,Dr. Barbara Sturm,150.0,Skincare
+P474967,NuFACE,69.0,Skincare
+P448564,CLINIQUE,74.0,Skincare
+P482318,St. Tropez,29.0,Skincare
+P502818,FOREO,279.0,Skincare
+P469830,Hourglass,86.0,Skincare
+P504795,Glossier,29.0,Skincare
+P500743,SEPHORA COLLECTION,5.5,Skincare
+P504919,Glossier,14.0,Skincare
+P417110,La Mer,300.0,Skincare
+P482314,SEPHORA COLLECTION,4.0,Skincare
+P442542,Alpha-H,106.0,Skincare
+P503216,Hyper Skin,39.0,Skincare
+P467129,Murad,36.0,Skincare
+P469806,GUERLAIN,130.0,Skincare
+P443549,Origins,71.0,Skincare
+P422260,Kiehl's Since 1851,95.0,Skincare
+P458962,goop,75.0,Skincare
+P504517,Soleil Toujours,68.0,Skincare
+P502827,FOREO,279.0,Skincare
+P460756,Mario Badescu,26.0,Skincare
+P449601,Dr. Barbara Sturm,215.0,Skincare
+P376946,CLINIQUE,72.0,Skincare
+P505316,Herbivore,26.0,Skincare
+P505131,MACRENE actives,225.0,Skincare
+P429538,fresh,28.0,Skincare
+P427731,Dior,110.0,Skincare
+P438632,BeautyBio,49.0,Skincare
+P417359,Estée Lauder,42.0,Skincare
+P480166,Fenty Skin,25.0,Skincare
+P480607,Herbivore,32.0,Skincare
+P503890,innisfree,22.0,Skincare
+P428414,Jack Black,37.0,Skincare
+P476515,Hyper Skin,36.0,Skincare
+P504784,Glossier,24.0,Skincare
+P481376,Dr. Dennis Gross Skincare,15.0,Skincare
+P383182,NuFACE,159.0,Skincare
+P446111,Clarins,90.0,Skincare
+P474964,Mario Badescu,9.0,Skincare
+P457272,GUERLAIN,110.0,Skincare
+P449411,tarte,9.0,Skincare
+P433446,Origins,24.0,Skincare
+P480346,ROSE Ingleton MD,38.0,Skincare
+P473185,Peter Thomas Roth,32.0,Skincare
+P450934,GUERLAIN,170.0,Skincare
+P454375,Dr. Barbara Sturm,55.0,Skincare
+P504636,Glow Recipe,20.0,Skincare
+P475961,La Mer,380.0,Skincare
+P483495,Sunday Riley,95.0,Skincare
+P500016,Caudalie,38.0,Skincare
+P503942,innisfree,24.0,Skincare
+P428639,La Mer,145.0,Skincare
+P468354,First Aid Beauty,46.0,Skincare
+P393600,NuFACE,449.0,Skincare
+P463792,BeautyBio,249.0,Skincare
+P427513,Estée Lauder,86.0,Skincare
+P467755,Clarins,30.0,Skincare
+P390987,CLINIQUE,32.0,Skincare
+P429675,Dior,45.0,Skincare
+P472068,SEPHORA COLLECTION,15.0,Skincare
+P461937,FOREO,59.0,Skincare
+P500106,Community Sixty-Six,30.0,Skincare
+P502831,FOREO,279.0,Skincare
+P505133,MACRENE actives,85.0,Skincare
+P457011,Dr. Jart+,15.0,Skincare
+P427732,Dior,110.0,Skincare
+P500248,Charlotte Tilbury,85.0,Skincare
+P500785,SEPHORA COLLECTION,15.0,Skincare
+P483494,Sunday Riley,93.0,Skincare
+P458958,INC.redible,15.0,Skincare
+P504203,Tatcha,27.0,Skincare
+P451728,Charlotte Tilbury,16.0,Skincare
+P481334,Herbivore,54.0,Skincare
+P474080,Peter Thomas Roth,55.0,Skincare
+P443812,BeautyBio,85.0,Skincare
+P423169,Shiseido,290.0,Skincare
+P430143,IT Cosmetics,15.0,Skincare
+P449410,Tata Harper,260.0,Skincare
+P442545,Alpha-H,38.0,Skincare
+P481138,NuFACE,159.0,Skincare
+P433620,Shiseido,50.0,Skincare
+P504509,Soleil Toujours,26.0,Skincare
+P504049,The Nue Co.,65.0,Skincare
+P457012,Dr. Jart+,15.0,Skincare
+P270600,Bobbi Brown,86.0,Skincare
+P504880,Fenty Skin,34.0,Skincare
+P504778,Glossier,25.0,Skincare
+P474943,Dr. Dennis Gross Skincare,20.0,Skincare
+P482311,SEPHORA COLLECTION,15.0,Skincare
+P504441,SEPHORA COLLECTION,8.0,Skincare
+P463791,BeautyBio,59.0,Skincare
+P436343,FOREO,20.0,Skincare
+P438629,BeautyBio,70.0,Skincare
+P428103,SK-II,315.0,Skincare
+P482746,Supergoop!,36.0,Skincare
+P446102,Estée Lauder,36.0,Skincare
+P445822,Dermalogica,42.0,Skincare
+P476432,Dior,65.0,Skincare
+P448548,Dr. Barbara Sturm,300.0,Skincare
+P427640,Estée Lauder,46.0,Skincare
+P448565,CLINIQUE,74.0,Skincare
+P476570,Dr. Brandt Skincare,75.0,Skincare
+P500139,The Ordinary,22.0,Skincare
+P501323,Tatcha,88.0,Skincare
+P477734,SEPHORA COLLECTION,24.0,Skincare
+P480279,Biossance,25.0,Skincare
+P436347,FOREO,21.99,Skincare
+P484076,Shiseido,66.0,Skincare
+P500287,CAY SKIN,32.0,Skincare
+P503930,innisfree,22.0,Skincare
+P503123,Josie Maran,30.0,Skincare
+P479973,Mario Badescu,7.0,Skincare
+P438640,BeautyBio,95.0,Skincare
+P457273,L'Occitane,60.0,Skincare
+P430405,La Mer,100.0,Skincare
+P463110,Sulwhasoo,45.0,Skincare
+P462378,Mario Badescu,30.0,Skincare
+P482058,Origins,40.0,Skincare
+P467107,BeautyBio,75.0,Skincare
+P504515,Soleil Toujours,58.0,Skincare
+P448545,Dr. Barbara Sturm,75.0,Skincare
+P469121,Dr. Lara Devgan Scientific Beauty,65.0,Skincare
+P500120,Community Sixty-Six,25.0,Skincare
+P444237,SEPHORA COLLECTION,3.0,Skincare
+P435387,fresh,15.0,Skincare
+P481350,Paula's Choice,64.0,Skincare
+P501591,Drunk Elephant,74.0,Skincare
+P474942,CLINIQUE,25.0,Skincare
+P438362,Lancôme,49.0,Skincare
+P503572,OLEHENRIKSEN,46.0,Skincare
+P504780,Glossier,29.0,Skincare
+P438634,BeautyBio,39.0,Skincare
+P504810,Glossier,25.0,Skincare
+P482259,COOLA,48.0,Skincare
+P503997,Farmacy,46.0,Skincare
+P503935,innisfree,14.0,Skincare
+P475926,Dr. Barbara Sturm,185.0,Skincare
+P504815,Glossier,35.0,Skincare
+P448546,Dr. Barbara Sturm,75.0,Skincare
+P462381,Mario Badescu,20.0,Skincare
+P402993,NuFACE,429.0,Skincare
+P448549,Dr. Barbara Sturm,310.0,Skincare
+P448544,Dr. Barbara Sturm,225.0,Skincare
+P474036,Dr. Barbara Sturm,75.0,Skincare
+P471017,Dr. Barbara Sturm,360.0,Skincare
+P457010,Dr. Jart+,15.0,Skincare
+P451737,Lancôme,130.0,Skincare
+P504320,Supergoop!,30.0,Skincare
+P503655,Caudalie,12.0,Skincare
+P501474,Youth To The People,340.0,Skincare
+P476496,Fenty Skin,40.0,Skincare
+P429504,Clarins,98.0,Skincare
+P504303,Tatcha,95.0,Skincare
+P504790,Glossier,21.0,Skincare
+P451727,Charlotte Tilbury,45.0,Skincare
+P438638,BeautyBio,39.0,Skincare
+P477761,Slip,55.0,Skincare
+P504447,SEPHORA COLLECTION,16.0,Skincare
+P416589,Skin Laundry,12.0,Skincare
+P448713,Dr. Barbara Sturm,55.0,Skincare
+P467608,CLINIQUE,74.0,Skincare
+P456434,tarte,14.0,Skincare
+P474369,Origins,27.0,Skincare
+P469452,CLINIQUE,33.0,Skincare
+P503552,BeautyBio,45.0,Skincare
+P405825,CLINIQUE,61.0,Skincare
+P467756,Clarins,30.0,Skincare
+P501003,Murad,49.0,Skincare
+P500116,Community Sixty-Six,16.0,Skincare
+P505378,StriVectin,39.0,Skincare
+P454800,OLEHENRIKSEN,19.0,Skincare
+P502740,Peter Thomas Roth,19.0,Skincare
+P500238,Charlotte Tilbury,30.0,Skincare
+P500983,Drunk Elephant,28.0,Skincare
+P457274,L'Occitane,29.0,Skincare
+P502996,SEPHORA COLLECTION,14.0,Skincare
+P504272,fresh,59.0,Skincare
+P479478,SEPHORA COLLECTION,28.0,Skincare
+P483078,COOLA,28.0,Skincare
+P504452,Bobbi Brown,25.0,Skincare
+P503912,Dr. Dennis Gross Skincare,85.0,Skincare
+P463951,Shiseido,30.0,Skincare
+P503226,fresh,36.0,Skincare
+P482313,SEPHORA COLLECTION,8.0,Skincare
+P438630,BeautyBio,49.0,Skincare
+P467649,SEPHORA COLLECTION,12.0,Skincare
+P479974,Mario Badescu,24.0,Skincare
+P444987,Dior,110.0,Skincare
+P500502,ROSE Ingleton MD,48.0,Skincare
+P409227,Clarins,58.0,Skincare
+P448551,Dr. Barbara Sturm,205.0,Skincare
+P503560,BeautyBio,30.0,Skincare
+P472471,Jack Black,40.0,Skincare
+P439099,CLINIQUE,36.0,Skincare
+P505209,The Nue Co.,65.0,Skincare
+P502365,Tatcha,27.0,Skincare
+P502998,Youth To The People,28.0,Skincare
+P502771,Wishful,29.0,Skincare
+P480174,Herbivore,32.0,Skincare
+P483145,SEPHORA COLLECTION,16.0,Skincare
+P500729,SEPHORA COLLECTION,20.0,Skincare
+P502237,BeautyBio,199.0,Skincare
+P480610,IT Cosmetics,59.0,Skincare
+P462379,Mario Badescu,14.0,Skincare
+P462375,Mario Badescu,30.0,Skincare
+P451750,SOBEL SKIN Rx,65.0,Skincare
+P483058,goop,45.0,Skincare
+P477150,Dr. Barbara Sturm,210.0,Skincare
+P468410,SK-II,205.0,Skincare
+P505274,The Ordinary,12.5,Skincare
+P482021,Kiehl's Since 1851,20.0,Skincare
+P405285,CLINIQUE,64.0,Skincare
+P482258,COOLA,36.0,Skincare
+P481970,Dior,85.0,Skincare
+P482256,COOLA,32.0,Skincare
+P439098,CLINIQUE,36.0,Skincare
+P505210,The Nue Co.,42.0,Skincare
+P457009,Dr. Jart+,15.0,Skincare
+P454795,Tatcha,22.0,Skincare
+P504273,fresh,35.0,Skincare
+P502725,Peter Thomas Roth,58.0,Skincare
+P503872,Youth To The People,16.0,Skincare
+P462384,Mario Badescu,21.0,Skincare
+P482009,Isle of Paradise,10.0,Skincare
+P500782,Supergoop!,29.0,Skincare
+P463106,Shiseido,85.0,Skincare
+P448550,Dr. Barbara Sturm,240.0,Skincare
+P503933,OLEHENRIKSEN,65.0,Skincare
+P423166,Shiseido,310.0,Skincare
+P480289,CLINIQUE,11.0,Skincare
+P483141,BeautyBio,99.0,Skincare
+P481668,CLINIQUE,35.0,Skincare
+P458963,goop,12.0,Skincare
+P503906,Dr. Dennis Gross Skincare,199.0,Skincare
+P505452,Lancôme,85.0,Skincare
+P440922,Dior,110.0,Skincare
+P502977,Youth To The People,20.0,Skincare
+P482309,SEPHORA COLLECTION,28.0,Skincare
+P471545,Dr. Dennis Gross Skincare,465.0,Skincare
+P477812,Charlotte Tilbury,260.0,Skincare
+P500775,The INKEY List,27.0,Skincare
+P481704,fresh,58.0,Skincare
+P504881,Caudalie,82.0,Skincare
+P472342,Tata Harper,68.0,Skincare
+P503944,Moon Juice,15.0,Skincare
+P502216,Shani Darden Skin Care,1900.0,Skincare
+P504594,ROSE INC,66.0,Skincare
+P504848,Caudalie,84.0,Skincare
+P480604,First Aid Beauty,30.0,Skincare
+P483694,Sulwhasoo,68.0,Skincare
+P501550,Peter Thomas Roth,35.0,Skincare
+P500060,Supergoop!,24.0,Skincare
+P500880,COOLA,32.0,Skincare
+P468196,Mario Badescu,49.0,Skincare
+P482661,Augustinus Bader,93.0,Skincare
+P481062,CLINIQUE,24.5,Skincare
+P462383,Mario Badescu,18.0,Skincare
+P416588,Skin Laundry,15.0,Skincare
+P460757,Mario Badescu,22.0,Skincare
+P503876,OLEHENRIKSEN,62.0,Skincare
+P504283,ROSE INC,18.0,Skincare
+P503894,innisfree,26.0,Skincare
+P462386,Mario Badescu,17.0,Skincare
+P469193,Moon Juice,75.0,Skincare
+P479946,Clarins,42.0,Skincare
+P504840,innisfree,18.0,Skincare
+P500124,Kate Somerville,49.0,Skincare
+P481081,Estée Lauder,102.0,Skincare
+P503635,Wander Beauty,36.0,Skincare
+P467757,Clarins,37.0,Skincare
+P481082,Estée Lauder,76.0,Skincare
+P435790,Dr. Brandt Skincare,65.0,Skincare
+P432240,Jack Black,25.0,Skincare
+P463109,Sulwhasoo,54.0,Skincare
+P502978,Youth To The People,28.0,Skincare
+P503934,LANEIGE,35.0,Skincare
+P502842,SEPHORA COLLECTION,20.0,Skincare
+P479646,Murad,25.0,Skincare
+P457279,tarte,14.0,Skincare
+P503892,Biossance,74.0,Skincare
+P480176,Kiehl's Since 1851,18.0,Skincare
+P502448,Sulwhasoo,140.0,Skincare
+P471784,Mario Badescu,14.0,Skincare
+P468390,Moon Juice,38.0,Skincare
+P483693,Sulwhasoo,80.0,Skincare
+P450935,GUERLAIN,200.0,Skincare
+P481971,Dior,85.0,Skincare
+P481077,Dior,80.0,Skincare
+P502235,Augustinus Bader,305.0,Skincare
+P502195,Kate Somerville,49.0,Skincare
+P483458,Hanni,6.0,Skincare
+P470548,tarte,39.0,Skincare
+P500482,Tata Harper,75.0,Skincare
+P500763,SEPHORA COLLECTION,5.0,Skincare
+P500998,Flora + Bast,44.0,Skincare
+P477706,SOBEL SKIN Rx,105.0,Skincare
+P476686,Hourglass,94.0,Skincare
+P448547,Dr. Barbara Sturm,240.0,Skincare
+P479947,Clarins,42.0,Skincare
+P406656,CLINIQUE,53.0,Skincare
+P501566,Clarins,132.0,Skincare
+P505381,StriVectin,39.0,Skincare
+P432255,fresh,40.0,Skincare
+P474090,SEPHORA COLLECTION,40.0,Skincare
+P480355,Tatcha,110.0,Skincare
+P504289,fresh,28.0,Skincare
+P472058,SEPHORA COLLECTION,35.0,Skincare
+P479696,Murad,52.0,Skincare
+P501264,La Mer,200.0,Skincare
+P395507,Bobbi Brown,110.0,Skincare
+P475083,Clarins,100.0,Skincare
+P503000,SEPHORA COLLECTION,18.0,Skincare
+P502709,Mario Badescu,20.0,Skincare
+P455229,Shiseido,185.0,Skincare
+P504987,COOLA,30.0,Skincare
+P504018,Augustinus Bader,185.0,Skincare
+P481342,DAMDAM,42.0,Skincare
+P482747,Supergoop!,34.0,Skincare
+P483460,Hanni,12.0,Skincare
+P423167,Shiseido,270.0,Skincare
+P474323,goop,85.0,Skincare
+P502047,REN Clean Skincare,66.0,Skincare
+P483089,BeautyBio,249.0,Skincare
+P500464,NuFACE,399.0,Skincare
+P504888,belif,27.0,Skincare
+P504221,NuFACE,395.0,Skincare
+P504411,Dr. Brandt Skincare,30.0,Skincare
+P504053,Dior,80.0,Skincare
+P500256,Mario Badescu,28.0,Skincare
+P474941,CLINIQUE,21.0,Skincare
+P500151,Dr. Brandt Skincare,85.0,Skincare
+P423168,Shiseido,270.0,Skincare
+P502186,Kate Somerville,59.0,Skincare
+P501585,Clarins,140.0,Skincare
+P502823,Lancôme,270.0,Skincare
+P504985,GUERLAIN,195.0,Skincare
+P455915,Dermalogica,16.5,Skincare
+P501886,Fenty Skin,59.0,Skincare
+P480445,First Aid Beauty,20.0,Skincare
+P502192,Skinfix,35.0,Skincare
+P503915,fresh,28.0,Skincare
+P504424,SEPHORA COLLECTION,17.0,Skincare
+P504850,Caudalie,139.0,Skincare
+P501153,Estée Lauder,72.0,Skincare
+P501175,Sulwhasoo,68.0,Skincare
+P483691,St. Tropez,29.0,Skincare
+P505208,Supergoop!,30.0,Skincare
+P504464,Kiehl's Since 1851,30.0,Skincare
+P505332,Dior,35.0,Skincare
+P500155,Kate Somerville,115.0,Skincare
+P469801,Hourglass,25.0,Skincare
+P481397,Estée Lauder,98.0,Skincare
+P504417,SEPHORA COLLECTION,20.0,Skincare
+P483086,Sulwhasoo,72.0,Skincare
+P504882,First Aid Beauty,30.0,Skincare
+P470538,Moon Juice,38.0,Skincare
+P505120,Drunk Elephant,54.0,Skincare
+P503877,Tata Harper,88.0,Skincare
+P478260,Erno Laszlo,75.0,Skincare
+P478270,Erno Laszlo,50.0,Skincare
+P469829,Hourglass,198.0,Skincare
+P505174,Estée Lauder,26.0,Skincare
+P476571,Jack Black,38.0,Skincare
+P460622,Dr. Brandt Skincare,165.0,Skincare
+P505392,StriVectin,49.0,Skincare
+P443842,The INKEY List,12.99,Skincare
+P448802,The INKEY List,12.99,Skincare
+P479841,fresh,69.0,Skincare
+P500757,Peace Out,24.0,Skincare
+P418624,KORA Organics,72.0,Skincare
+P456211,goop,60.0,Skincare
+P459300,goop,12.0,Skincare
+P427410,The Ordinary,7.8,Skincare
+P454120,Drunk Elephant,54.0,Skincare
+P418629,Sunday Riley,22.0,Skincare
+P474377,Tatcha,92.0,Skincare
+P503191,Tatcha,22.0,Skincare
+P473820,Estée Lauder,82.0,Skincare
+P472028,Dior,85.0,Skincare
+P384780,Josie Maran,56.0,Skincare
+P423259,Dr. Jart+,52.0,Skincare
+P385432,CLINIQUE,32.0,Skincare
+P433444,Origins,37.0,Skincare
+P431181,Isle of Paradise,32.0,Skincare
+P426707,First Aid Beauty,36.0,Skincare
+P12295,fresh,64.0,Skincare
+P419223,Drunk Elephant,60.0,Skincare
+P454378,fresh,54.0,Skincare
+P436359,Glow Recipe,34.0,Skincare
+P430146,Youth To The People,48.0,Skincare
+P384539,First Aid Beauty,24.0,Skincare
+P454383,Supergoop!,34.0,Skincare
+P454384,Supergoop!,22.0,Skincare
+P481831,St. Tropez,42.0,Skincare
+P449175,belif,30.0,Skincare
+P455236,Glow Recipe,22.0,Skincare
+P470041,Lancôme,65.0,Skincare
+P456566,OLEHENRIKSEN,71.0,Skincare
+P454838,Kiehl's Since 1851,55.0,Skincare
+P421276,Kate Somerville,76.0,Skincare
+P188309,CLINIQUE,23.5,Skincare
+P472050,OLEHENRIKSEN,51.0,Skincare
+P411365,Murad,92.0,Skincare
+P214002,REN Clean Skincare,52.0,Skincare
+P395615,Caudalie,42.0,Skincare
+P482535,Glow Recipe,42.0,Skincare
+P411401,IT Cosmetics,49.5,Skincare
+P460515,Drunk Elephant,14.0,Skincare
+P462347,Drunk Elephant,14.0,Skincare
+P471046,KORA Organics,62.0,Skincare
+P455926,Shani Darden Skin Care,88.0,Skincare
+P455927,Shani Darden Skin Care,30.0,Skincare
+P447210,Biossance,56.0,Skincare
+P188307,CLINIQUE,20.0,Skincare
+P403817,CLINIQUE,32.0,Skincare
+P375841,Lancôme,80.0,Skincare
+P375853,SK-II,80.0,Skincare
+P297551,Origins,32.0,Skincare
+P442836,Skinfix,30.0,Skincare
+P442744,Glow Recipe,29.0,Skincare
+P466164,Youth To The People,69.0,Skincare
+P375534,First Aid Beauty,28.0,Skincare
+P440650,Murad,32.0,Skincare
+P446942,The INKEY List,9.99,Skincare
+P433443,belif,38.0,Skincare
+P472468,Glow Recipe,40.0,Skincare
+P457005,fresh,60.0,Skincare
+P416139,Sunday Riley,65.0,Skincare
+P469538,Sulwhasoo,89.0,Skincare
+P476729,Sulwhasoo,25.0,Skincare
+P454313,LANEIGE,34.0,Skincare
+P409631,tarte,22.0,Skincare
+P404793,MILK MAKEUP,39.0,Skincare
+P453224,Biossance,65.0,Skincare
+P475589,Origins,37.0,Skincare
+P443830,The INKEY List,14.99,Skincare
+P400203,Herbivore,74.0,Skincare
+P479904,Herbivore,15.0,Skincare
+P505346,Sulwhasoo,110.0,Skincare
+P427411,The Ordinary,11.1,Skincare
+P458755,Charlotte Tilbury,85.0,Skincare
+P309310,Sunday Riley,35.0,Skincare
+P474937,Caudalie,30.0,Skincare
+P404322,Kate Somerville,44.0,Skincare
+P448202,Shiseido,75.0,Skincare
+P453930,Dermalogica,74.0,Skincare
+P39970,fresh,15.0,Skincare
+P463105,Shiseido,75.0,Skincare
+P442838,Skinfix,44.0,Skincare
+P411393,IT Cosmetics,35.0,Skincare
+P481164,Shiseido,50.0,Skincare
+P475921,Clarins,82.0,Skincare
+P502656,IT Cosmetics,72.0,Skincare
+P375850,SK-II,75.0,Skincare
+P122881,CLINIQUE,20.0,Skincare
+P467655,The INKEY List,9.99,Skincare
+P440949,Alpha-H,56.0,Skincare
+P501760,Glow Recipe,38.0,Skincare
+P422022,Kiehl's Since 1851,65.0,Skincare
+P455611,Kiehl's Since 1851,125.0,Skincare
+P471025,Farmacy,48.0,Skincare
+P217513,fresh,96.0,Skincare
+P470259,Topicals,38.0,Skincare
+P484080,Topicals,18.0,Skincare
+P254720,Murad,39.0,Skincare
+P257537,CLINIQUE,37.0,Skincare
+P479318,Farmacy,44.0,Skincare
+P377545,tarte,39.0,Skincare
+P449180,Summer Fridays,68.0,Skincare
+P4015,Murad,30.0,Skincare
+P444718,The Ordinary,9.0,Skincare
+P469213,OLEHENRIKSEN,52.0,Skincare
+P431187,Farmacy,28.0,Skincare
+P418872,OLEHENRIKSEN,35.0,Skincare
+P447212,Dr. Barbara Sturm,320.0,Skincare
+P454936,Dr. Barbara Sturm,110.0,Skincare
+P481161,Shiseido,75.0,Skincare
+P422007,Kiehl's Since 1851,30.0,Skincare
+P479339,OLEHENRIKSEN,51.0,Skincare
+P379707,Tata Harper,68.0,Skincare
+P470536,Lancôme,95.0,Skincare
+P419221,Drunk Elephant,36.0,Skincare
+P442761,Sunday Riley,80.0,Skincare
+P433521,Charlotte Tilbury,65.0,Skincare
+P458576,Peter Thomas Roth,55.0,Skincare
+P428416,Farmacy,12.0,Skincare
+P461451,GUERLAIN,85.0,Skincare
+P468409,SK-II,170.0,Skincare
+P9940,Murad,68.0,Skincare
+P482676,Farmacy,50.0,Skincare
+P122762,CLINIQUE,23.5,Skincare
+P459141,Farmacy,32.0,Skincare
+P480301,Farmacy,16.0,Skincare
+P447782,Dr. Barbara Sturm,150.0,Skincare
+P454935,Dr. Barbara Sturm,60.0,Skincare
+P471029,goop,58.0,Skincare
+P122661,CLINIQUE,26.0,Skincare
+P447781,Dr. Barbara Sturm,225.0,Skincare
+P464233,Dr. Barbara Sturm,75.0,Skincare
+P440934,Tatcha,24.0,Skincare
+P429516,COOLA,48.0,Skincare
+P471065,Peter Thomas Roth,23.0,Skincare
+P4010,Murad,46.0,Skincare
+P456126,MILK MAKEUP,30.0,Skincare
+P455369,The INKEY List,15.99,Skincare
+P467249,Fenty Skin,39.0,Skincare
+P281835,GLO Science,159.0,Skincare
+P394397,Murad,71.0,Skincare
+P481739,Skinfix,48.0,Skincare
+P454396,fresh,45.0,Skincare
+P428100,Peter Thomas Roth,105.0,Skincare
+P454084,Josie Maran,69.0,Skincare
+P427412,The Ordinary,11.1,Skincare
+P475543,Glow Recipe,45.0,Skincare
+P468408,SK-II,145.0,Skincare
+P467615,Dr. Jart+,42.0,Skincare
+P460578,goop,98.0,Skincare
+P471788,Murad,17.0,Skincare
+P501254,Glow Recipe,40.0,Skincare
+P387261,Peter Thomas Roth,60.0,Skincare
+P469490,LANEIGE,25.0,Skincare
+P505031,Benefit Cosmetics,44.0,Skincare
+P423136,Dermalogica,42.0,Skincare
+P432241,CLINIQUE,45.0,Skincare
+P443700,Dermalogica,13.0,Skincare
+P466122,fresh,44.0,Skincare
+P416561,Biossance,54.0,Skincare
+P470024,Drunk Elephant,82.0,Skincare
+P188306,CLINIQUE,26.0,Skincare
+P446423,Murad,38.0,Skincare
+P427418,The Ordinary,11.7,Skincare
+P472981,Lancôme,79.0,Skincare
+P232906,Kate Somerville,76.0,Skincare
+P505023,Benefit Cosmetics,39.0,Skincare
+P471226,Caudalie,65.0,Skincare
+P482693,LANEIGE,40.0,Skincare
+P379710,Tata Harper,88.0,Skincare
+P457517,fresh,25.0,Skincare
+P444057,belif,30.0,Skincare
+P467945,Dior,130.0,Skincare
+P458900,Josie Maran,29.0,Skincare
+P466117,Drunk Elephant,42.0,Skincare
+P453824,Peter Thomas Roth,75.0,Skincare
+P505009,Benefit Cosmetics,34.0,Skincare
+P413326,Tatcha,30.0,Skincare
+P455368,The INKEY List,15.99,Skincare
+P381020,Caudalie,30.0,Skincare
+P466673,Murad,83.0,Skincare
+P455366,The INKEY List,12.99,Skincare
+P470506,Augustinus Bader,70.0,Skincare
+P443349,HUM Nutrition,40.0,Skincare
+P461213,Wishful,43.0,Skincare
+P442830,The Ordinary,10.0,Skincare
+P454806,Dior,130.0,Skincare
+P448852,Tower 28 Beauty,12.0,Skincare
+P416562,Biossance,56.0,Skincare
+P420699,Tatcha,70.0,Skincare
+P432045,Algenist,29.0,Skincare
+P456410,Biossance,34.0,Skincare
+P466153,Summer Fridays,45.0,Skincare
+P439928,Supergoop!,44.0,Skincare
+P479125,Summer Fridays,17.0,Skincare
+P448185,Dr. Jart+,49.0,Skincare
+P471043,Josie Maran,42.0,Skincare
+P416560,Biossance,32.0,Skincare
+P448530,The Ordinary,13.3,Skincare
+P467110,Biossance,65.0,Skincare
+P34402,Murad,48.0,Skincare
+P500245,ILIA,64.0,Skincare
+P427638,Murad,71.0,Skincare
+P466134,LANEIGE,35.0,Skincare
+P460747,Herbivore,26.0,Skincare
+P477830,Youth To The People,39.0,Skincare
+P283106,Peter Thomas Roth,38.0,Skincare
+P461165,goop,55.0,Skincare
+P3550,Peter Thomas Roth,48.0,Skincare
+P474078,Peter Thomas Roth,20.0,Skincare
+P503726,Sunday Riley,65.0,Skincare
+P436094,REN Clean Skincare,55.0,Skincare
+P415667,Kate Somerville,44.0,Skincare
+P396623,COOLA,36.0,Skincare
+P232910,Kate Somerville,76.0,Skincare
+P456417,KORRES,54.0,Skincare
+P455934,Youth To The People,59.0,Skincare
+P503634,Glow Recipe,28.0,Skincare
+P454019,Dr. Jart+,35.0,Skincare
+P477157,Farmacy,36.0,Skincare
+P386754,HUM Nutrition,26.0,Skincare
+P443370,Dermalogica,95.0,Skincare
+P501029,Kiehl's Since 1851,85.0,Skincare
+P443843,The INKEY List,9.99,Skincare
+P232907,Kate Somerville,56.0,Skincare
+P480162,Dior,60.0,Skincare
+P460855,SEPHORA COLLECTION,7.0,Skincare
+P384778,fresh,68.0,Skincare
+P471003,Biossance,30.0,Skincare
+P501005,Dr. Jart+,44.0,Skincare
+P456399,Shiseido,40.0,Skincare
+P306941,Kate Somerville,110.0,Skincare
+P483679,OLEHENRIKSEN,48.0,Skincare
+P467126,JLo Beauty,79.0,Skincare
+P479971,Lancôme,140.0,Skincare
+P405584,Drunk Elephant,16.0,Skincare
+P453823,Peter Thomas Roth,55.0,Skincare
+P474840,Kiehl's Since 1851,65.0,Skincare
+P474832,fresh,28.0,Skincare
+P457864,Kiehl's Since 1851,60.0,Skincare
+P461439,Dr. Dennis Gross Skincare,32.0,Skincare
+P421432,Murad,26.0,Skincare
+P309306,Sunday Riley,72.0,Skincare
+P475630,Youth To The People,16.0,Skincare
+P201440,CLINIQUE,56.0,Skincare
+P480177,Kiehl's Since 1851,60.0,Skincare
+P443846,The INKEY List,12.99,Skincare
+P442857,Dr. Jart+,20.0,Skincare
+P500613,OLEHENRIKSEN,42.0,Skincare
+P466154,Supergoop!,46.0,Skincare
+P482298,Origins,40.0,Skincare
+P503879,Farmacy,45.0,Skincare
+P442839,Skinfix,42.0,Skincare
+P432242,CLINIQUE,26.5,Skincare
+P251529,Peter Thomas Roth,65.0,Skincare
+P461949,La Mer,425.0,Skincare
+P457008,Dr. Jart+,15.0,Skincare
+P393076,First Aid Beauty,44.0,Skincare
+P479354,The INKEY List,10.99,Skincare
+P481972,Dior,50.0,Skincare
+P500240,Dermalogica,65.0,Skincare
+P442741,Peter Thomas Roth,125.0,Skincare
+P442564,Herbivore,60.0,Skincare
+P469482,Isle of Paradise,28.0,Skincare
+P455241,KORA Organics,74.0,Skincare
+P504986,Shiseido,38.0,Skincare
+P399932,Peter Thomas Roth,32.0,Skincare
+P448184,Dr. Jart+,25.0,Skincare
+P467124,JLo Beauty,59.0,Skincare
+P384821,CLINIQUE,34.5,Skincare
+P442742,Peter Thomas Roth,55.0,Skincare
+P463144,Youth To The People,48.0,Skincare
+P446934,Murad,49.0,Skincare
+P445832,Dermalogica,42.0,Skincare
+P501165,WASO,36.0,Skincare
+P392608,Peter Thomas Roth,60.0,Skincare
+P420224,Caudalie,59.0,Skincare
+P504125,Glow Recipe,32.0,Skincare
+P468821,First Aid Beauty,44.0,Skincare
+P500307,Fenty Skin,24.0,Skincare
+P382204,Peter Thomas Roth,55.0,Skincare
+P436387,Summer Fridays,49.0,Skincare
+P447603,First Aid Beauty,24.0,Skincare
+P446641,Josie Maran,66.0,Skincare
+P414293,Farmacy,34.0,Skincare
+P438619,SEPHORA COLLECTION,18.0,Skincare
+P474304,Biossance,28.0,Skincare
+P442003,fresh,25.0,Skincare
+P453227,OLEHENRIKSEN,33.0,Skincare
+P463353,Supergoop!,44.0,Skincare
+P482551,Sunday Riley,65.0,Skincare
+P459133,OLEHENRIKSEN,16.0,Skincare
+P483076,Sunday Riley,22.0,Skincare
+P422002,Kiehl's Since 1851,45.0,Skincare
+P434546,OLEHENRIKSEN,60.0,Skincare
+P474060,Kiehl's Since 1851,25.0,Skincare
+P460723,SEPHORA COLLECTION,6.0,Skincare
+P94812,Clarins,39.0,Skincare
+P479304,Biossance,68.0,Skincare
+P464238,Dr. Zenovia Skincare,79.0,Skincare
+P443841,The INKEY List,10.99,Skincare
+P440075,Sunday Riley,85.0,Skincare
+P500857,Murad,45.0,Skincare
+P407450,St. Tropez,34.0,Skincare
+P472472,Kiehl's Since 1851,60.0,Skincare
+P459127,Dr. Lara Devgan Scientific Beauty,50.0,Skincare
+P7365,Murad,50.0,Skincare
+P450614,The INKEY List,15.99,Skincare
+P476843,Charlotte Tilbury,70.0,Skincare
+P456414,KORRES,52.0,Skincare
+P311143,Algenist,28.0,Skincare
+P442743,Peter Thomas Roth,95.0,Skincare
+P391802,Dr. Brandt Skincare,89.0,Skincare
+P501187,WASO,28.0,Skincare
+P415620,REN Clean Skincare,52.0,Skincare
+P432049,Moon Juice,49.0,Skincare
+P454086,Dr. Jart+,29.0,Skincare
+P384537,Algenist,112.0,Skincare
+P472453,Caudalie,45.0,Skincare
+P481830,St. Tropez,48.0,Skincare
+P442754,The Ordinary,12.2,Skincare
+P429953,Supergoop!,26.0,Skincare
+P471101,Skinfix,50.0,Skincare
+P297531,Origins,49.0,Skincare
+P173619,Shiseido,70.0,Skincare
+P503999,Dior,100.0,Skincare
+P454799,Moon Juice,25.0,Skincare
+P501188,WASO,38.0,Skincare
+P440504,Summer Fridays,54.0,Skincare
+P470509,Augustinus Bader,290.0,Skincare
+P433627,KORA Organics,52.0,Skincare
+P461177,KORA Organics,18.0,Skincare
+P428668,Wander Beauty,26.0,Skincare
+P426080,fresh,69.0,Skincare
+P501170,WASO,36.0,Skincare
+P477985,Drunk Elephant,72.0,Skincare
+P394124,Josie Maran,38.0,Skincare
+P467248,Fenty Skin,34.0,Skincare
+P482074,Summer Fridays,44.0,Skincare
+P482741,Shiseido,38.0,Skincare
+P479645,Murad,79.0,Skincare
+P501171,WASO,38.0,Skincare
+P481169,Tatcha,62.0,Skincare
+P391799,fresh,96.0,Skincare
+P466661,Farmacy,28.0,Skincare
+P457521,Dr. Jart+,40.0,Skincare
+P467137,Peter Thomas Roth,72.0,Skincare
+P414737,tarte,25.0,Skincare
+P502966,MERIT,38.0,Skincare
+P196542,CLINIQUE,30.0,Skincare
+P437981,Herbivore,50.0,Skincare
+P416564,Biossance,34.0,Skincare
+P457512,REN Clean Skincare,55.0,Skincare
+P271682,Peter Thomas Roth,49.0,Skincare
+P505024,Benefit Cosmetics,39.0,Skincare
+P443359,Dermalogica,74.0,Skincare
+P429250,Dr. Jart+,48.0,Skincare
+P479330,LANEIGE,32.0,Skincare
+P424988,TAN-LUXE,50.0,Skincare
+P505054,Benefit Cosmetics,39.0,Skincare
+P500744,SEPHORA COLLECTION,7.0,Skincare
+P454085,Dr. Jart+,30.0,Skincare
+P438620,SEPHORA COLLECTION,18.0,Skincare
+P482540,Murad,69.0,Skincare
+P467123,JLo Beauty,55.0,Skincare
+P479706,Peter Thomas Roth,65.0,Skincare
+P470243,Peter Thomas Roth,68.0,Skincare
+P455237,alpyn beauty,60.0,Skincare
+P502761,Lancôme,95.0,Skincare
+P471111,Wishful,39.0,Skincare
+P505020,Benefit Cosmetics,29.0,Skincare
+P377577,CLINIQUE,40.0,Skincare
+P442843,Skinfix,29.0,Skincare
+P479362,Youth To The People,54.0,Skincare
+P474939,Caudalie,30.0,Skincare
+P196524,CLINIQUE,19.5,Skincare
+P468684,KORA Organics,44.0,Skincare
+P474079,Peter Thomas Roth,44.0,Skincare
+P504071,ILIA,46.0,Skincare
+P501176,Estée Lauder,42.0,Skincare
+P442589,SEPHORA COLLECTION,8.0,Skincare
+P470057,Supergoop!,38.0,Skincare
+P503668,Skinfix,69.0,Skincare
+P482321,Supergoop!,22.0,Skincare
+P500288,Farmacy,60.0,Skincare
+P442535,SEPHORA COLLECTION,15.0,Skincare
+P481162,Shiseido,50.0,Skincare
+P500993,Nécessaire,25.0,Skincare
+P500471,Gucci,78.0,Skincare
+P392248,Drunk Elephant,28.0,Skincare
+P467122,JLo Beauty,49.0,Skincare
+P439057,IT Cosmetics,45.0,Skincare
+P268700,Murad,83.0,Skincare
+P453226,Supergoop!,40.0,Skincare
+P450262,The INKEY List,12.99,Skincare
+P448719,Peter Thomas Roth,88.0,Skincare
+P501189,WASO,25.0,Skincare
+P407448,St. Tropez,46.0,Skincare
+P481366,CAY SKIN,34.0,Skincare
+P468411,SK-II,255.0,Skincare
+P479705,Peter Thomas Roth,52.0,Skincare
+P441220,First Aid Beauty,36.0,Skincare
+P468637,Caudalie,30.0,Skincare
+P481340,Dr. Dennis Gross Skincare,39.0,Skincare
+P462390,Peter Thomas Roth,58.0,Skincare
+P469506,Paula's Choice,55.0,Skincare
+P375852,SK-II,145.0,Skincare
+P479329,Kiehl's Since 1851,45.0,Skincare
+P466163,Wishful,47.0,Skincare
+P464243,Dr. Zenovia Skincare,30.0,Skincare
+P473828,Dr. Jart+,40.0,Skincare
+P429529,Dr. Jart+,7.0,Skincare
+P476415,Skinfix,35.0,Skincare
+P442758,The Ordinary,7.5,Skincare
+P442871,The INKEY List,12.99,Skincare
+P479632,Dr. Jart+,45.0,Skincare
+P470507,Augustinus Bader,180.0,Skincare
+P501028,Drunk Elephant,60.0,Skincare
+P423142,Dermalogica,74.0,Skincare
+P402944,Slip,89.0,Skincare
+P467247,Fenty Skin,28.0,Skincare
+P474340,KORRES,50.0,Skincare
+P503693,Drunk Elephant,68.0,Skincare
+P438617,SEPHORA COLLECTION,18.0,Skincare
+P479348,Skinfix,30.0,Skincare
+P480613,La Mer,180.0,Skincare
+P482024,La Mer,125.0,Skincare
+P500019,belif,38.0,Skincare
+P438618,SEPHORA COLLECTION,12.0,Skincare
+P442837,Skinfix,50.0,Skincare
+P420158,fresh,48.0,Skincare
+P501236,GUERLAIN,240.0,Skincare
+P504007,Dr. Jart+,48.0,Skincare
+P442990,REN Clean Skincare,40.0,Skincare
+P460624,Dermalogica,39.5,Skincare
+P377368,Kate Somerville,56.0,Skincare
+P426829,IT Cosmetics,29.0,Skincare
+P480606,goop,35.0,Skincare
+P481732,REN Clean Skincare,69.0,Skincare
+P454837,IT Cosmetics,58.0,Skincare
+P503891,innisfree,29.0,Skincare
+P456192,Prima,68.0,Skincare
+P435386,Glow Recipe,21.0,Skincare
+P476876,KORA Organics,58.0,Skincare
+P282920,CLINIQUE,55.0,Skincare
+P469503,Paula's Choice,13.0,Skincare
+P450633,Sulwhasoo,40.0,Skincare
+P476730,Sulwhasoo,13.0,Skincare
+P475182,TULA Skincare,34.0,Skincare
+P482757,TULA Skincare,12.0,Skincare
+P469522,Paula's Choice,37.0,Skincare
+P435800,Moon Juice,42.0,Skincare
+P480285,Caudalie,85.0,Skincare
+P270544,Bobbi Brown,58.0,Skincare
+P434361,Origins,52.0,Skincare
+P456206,St. Tropez,45.0,Skincare
+P394826,HUM Nutrition,26.0,Skincare
+P392239,Rosebud Perfume Co.,7.0,Skincare
+P503052,HUM Nutrition,15.0,Skincare
+P432262,St. Tropez,33.0,Skincare
+P440498,Mario Badescu,17.0,Skincare
+P428816,KORA Organics,42.0,Skincare
+P475185,TULA Skincare,54.0,Skincare
+P475203,TULA Skincare,26.0,Skincare
+P462666,Clarins,90.0,Skincare
+P454387,Supergoop!,38.0,Skincare
+P454388,Supergoop!,15.0,Skincare
+P427409,The Ordinary,8.3,Skincare
+P444980,Youth To The People,42.0,Skincare
+P443829,Isle of Paradise,32.0,Skincare
+P217932,Lancôme,34.0,Skincare
+P205614,Shiseido,65.0,Skincare
+P456994,First Aid Beauty,36.0,Skincare
+P412025,Peter Thomas Roth,55.0,Skincare
+P9941,Murad,44.0,Skincare
+P482264,Fenty Skin,35.0,Skincare
+P423130,Dermalogica,65.0,Skincare
+P427529,Kiehl's Since 1851,78.0,Skincare
+P446419,KORA Organics,73.0,Skincare
+P471037,iNNBEAUTY PROJECT,30.0,Skincare
+P392249,Drunk Elephant,28.0,Skincare
+P456582,Dermalogica,48.0,Skincare
+P481832,St. Tropez,29.0,Skincare
+P460701,SEPHORA COLLECTION,5.5,Skincare
+P2043,Evian,14.0,Skincare
+P503721,Peace Out,19.0,Skincare
+P442867,Kate Somerville,98.0,Skincare
+P374841,CLINIQUE,44.0,Skincare
+P480192,Summer Fridays,42.0,Skincare
+P456193,Prima,68.0,Skincare
+P482323,Supergoop!,34.0,Skincare
+P456400,St. Tropez,9.0,Skincare
+P500138,Youth To The People,68.0,Skincare
+P463665,Wishful,63.0,Skincare
+P464239,Dr. Zenovia Skincare,38.0,Skincare
+P503692,Fenty Skin,22.0,Skincare
+P467976,Supergoop!,35.0,Skincare
+P472469,iNNBEAUTY PROJECT,34.0,Skincare
+P481697,Dermalogica,64.0,Skincare
+P460856,SEPHORA COLLECTION,3.5,Skincare
+P467971,REN Clean Skincare,51.0,Skincare
+P475190,TULA Skincare,32.0,Skincare
+P454102,Peter Thomas Roth,88.0,Skincare
+P480461,Murad,42.0,Skincare
+P504045,Supergoop!,46.0,Skincare
+P475951,innisfree,30.0,Skincare
+P415773,CLINIQUE,23.0,Skincare
+P501199,WASO,30.0,Skincare
+P472052,Peace Out,28.0,Skincare
+P467120,JLo Beauty,39.0,Skincare
+P453928,Murad,89.0,Skincare
+P475124,La Mer,125.0,Skincare
+P470227,Murad,85.0,Skincare
+P415202,Kate Somerville,98.0,Skincare
+P504042,Dr. Jart+,9.0,Skincare
+P482681,IT Cosmetics,42.0,Skincare
+P501178,WASO,45.0,Skincare
+P173652,Shiseido,85.0,Skincare
+P447596,The Ordinary,7.5,Skincare
+P474822,Dermalogica,37.0,Skincare
+P444970,Murad,79.0,Skincare
+P444222,Saint Jane Beauty,125.0,Skincare
+P446909,Supergoop!,44.0,Skincare
+P472810,Dermalogica,145.0,Skincare
+P466114,Caudalie,84.0,Skincare
+P482325,Supergoop!,34.0,Skincare
+P456571,Murad,88.0,Skincare
+P417980,Murad,69.0,Skincare
+P500756,First Aid Beauty,50.0,Skincare
+P475135,Murad,30.0,Skincare
+P457695,Kate Somerville,76.0,Skincare
+P465741,alpyn beauty,56.0,Skincare
+P470065,Youth To The People,38.0,Skincare
+P447778,The INKEY List,12.99,Skincare
+P469088,The INKEY List,11.99,Skincare
+P478029,The INKEY List,5.99,Skincare
+P433456,Peter Thomas Roth,68.0,Skincare
+P503814,Dermalogica,92.0,Skincare
+P400204,Herbivore,88.0,Skincare
+P458917,Tata Harper,68.0,Skincare
+P445833,Dermalogica,75.0,Skincare
+P479903,Herbivore,60.0,Skincare
+P407444,Herbivore,14.0,Skincare
+P481833,Sulwhasoo,260.0,Skincare
+P474075,Murad,44.0,Skincare
+P504001,Dr. Jart+,39.0,Skincare
+P501288,Paula's Choice,39.0,Skincare
+P504064,Dr. Jart+,15.0,Skincare
+P483138,SEPHORA COLLECTION,20.0,Skincare
+P503651,OLEHENRIKSEN,60.0,Skincare
+P436353,fresh,26.0,Skincare
+P467750,Caudalie,69.0,Skincare
+P472021,DAMDAM,48.0,Skincare
+P453929,Murad,88.0,Skincare
+P388200,Algenist,38.0,Skincare
+P503642,Biossance,56.0,Skincare
+P475181,TULA Skincare,30.0,Skincare
+P467647,SEPHORA COLLECTION,12.0,Skincare
+P475629,Wishful,43.0,Skincare
+P479732,The Ordinary,7.2,Skincare
+P416923,Youth To The People,38.0,Skincare
+P457522,Dr. Jart+,42.0,Skincare
+P455929,Shani Darden Skin Care,38.0,Skincare
+P397624,Dr. Jart+,9.0,Skincare
+P459130,Dr. Lara Devgan Scientific Beauty,245.0,Skincare
+P406104,Peter Thomas Roth,75.0,Skincare
+P479633,Dr. Jart+,9.0,Skincare
+P432048,Tata Harper,92.0,Skincare
+P482008,Isle of Paradise,32.0,Skincare
+P462344,Dermalogica,64.0,Skincare
+P455924,La Mer,260.0,Skincare
+P483137,SEPHORA COLLECTION,20.0,Skincare
+P433457,Peter Thomas Roth,62.0,Skincare
+P4032,Murad,42.0,Skincare
+P453826,Lancôme,135.0,Skincare
+P441323,Glow Recipe,10.0,Skincare
+P467652,SEPHORA COLLECTION,5.0,Skincare
+P397310,Dr. Brandt Skincare,59.0,Skincare
+P446422,Kiehl's Since 1851,48.0,Skincare
+P423150,Dermalogica,43.0,Skincare
+P443351,Dermalogica,13.0,Skincare
+P482329,Youth To The People,69.0,Skincare
+P467111,Dermalogica,86.0,Skincare
+P421600,Herbivore,39.0,Skincare
+P455242,Summer Fridays,35.0,Skincare
+P503913,Kiehl's Since 1851,48.0,Skincare
+P444226,Farmacy,48.0,Skincare
+P482692,LANEIGE,45.0,Skincare
+P423123,Dermalogica,65.0,Skincare
+P450244,The INKEY List,15.99,Skincare
+P467118,JLo Beauty,49.0,Skincare
+P422013,Kiehl's Since 1851,38.0,Skincare
+P411254,Dr. Brandt Skincare,75.0,Skincare
+P459128,Dr. Lara Devgan Scientific Beauty,145.0,Skincare
+P434550,Murad,97.0,Skincare
+P470221,Kiehl's Since 1851,60.0,Skincare
+P474825,Dr. Dennis Gross Skincare,71.0,Skincare
+P432823,Mount Lai,30.0,Skincare
+P460514,LANEIGE,34.0,Skincare
+P454100,Herbivore,58.0,Skincare
+P469537,Sulwhasoo,58.0,Skincare
+P430818,tarte,15.0,Skincare
+P464245,Dr. Zenovia Skincare,42.0,Skincare
+P440482,Mario Badescu,7.0,Skincare
+P449188,Farmacy,36.0,Skincare
+P483664,Kiehl's Since 1851,60.0,Skincare
+P430903,MILK MAKEUP,36.0,Skincare
+P501581,Fenty Skin,14.0,Skincare
+P409630,tarte,22.0,Skincare
+P504639,OLEHENRIKSEN,34.0,Skincare
+P467630,Lancôme,82.0,Skincare
+P380000,Estée Lauder,36.0,Skincare
+P469118,Dermalogica,69.0,Skincare
+P467617,Dr. Zenovia Skincare,35.0,Skincare
+P435209,Dr. Brandt Skincare,72.0,Skincare
+P500894,Fenty Skin,34.0,Skincare
+P455365,The INKEY List,7.99,Skincare
+P455900,The Ordinary,5.0,Skincare
+P454389,Supergoop!,21.0,Skincare
+P480447,iNNBEAUTY PROJECT,35.0,Skincare
+P436891,Herbivore,32.0,Skincare
+P501282,Paula's Choice,45.0,Skincare
+P443838,The INKEY List,12.99,Skincare
+P460513,LANEIGE,27.0,Skincare
+P456572,Murad,67.0,Skincare
+P423254,Peter Thomas Roth,55.0,Skincare
+P455894,First Aid Beauty,36.0,Skincare
+P500618,KORA Organics,44.0,Skincare
+P472302,alpyn beauty,58.0,Skincare
+P201439,CLINIQUE,26.5,Skincare
+P464241,Dr. Zenovia Skincare,25.0,Skincare
+P474826,Dr. Dennis Gross Skincare,76.0,Skincare
+P294018,Koh Gen Do,23.0,Skincare
+P439927,Kate Somerville,72.0,Skincare
+P122727,CLINIQUE,54.0,Skincare
+P501321,Saint Jane Beauty,38.0,Skincare
+P448181,DERMAFLASH,99.0,Skincare
+P244701,CLINIQUE,29.0,Skincare
+P456988,Isle of Paradise,35.0,Skincare
+P467251,Fenty Skin,45.0,Skincare
+P457510,HUM Nutrition,26.0,Skincare
+P504044,Josie Maran,54.0,Skincare
+P469439,Biossance,16.0,Skincare
+P450632,Sulwhasoo,38.0,Skincare
+P476731,Sulwhasoo,12.0,Skincare
+P404794,MILK MAKEUP,32.0,Skincare
+P397623,Dr. Jart+,7.0,Skincare
+P402014,Sunday Riley,50.0,Skincare
+P475194,TULA Skincare,56.0,Skincare
+P482061,Peter Thomas Roth,38.0,Skincare
+P474332,IT Cosmetics,29.0,Skincare
+P479692,Dermalogica,59.0,Skincare
+P9939,Murad,42.0,Skincare
+P439643,CLINIQUE,41.0,Skincare
+P474330,IT Cosmetics,29.0,Skincare
+P475086,Dermalogica,69.0,Skincare
+P475159,REN Clean Skincare,60.0,Skincare
+P479340,Peace Out,34.0,Skincare
+P122782,CLINIQUE,31.5,Skincare
+P474333,IT Cosmetics,29.0,Skincare
+P385631,CLINIQUE,32.5,Skincare
+P459129,Dr. Lara Devgan Scientific Beauty,215.0,Skincare
+P482006,innisfree,26.0,Skincare
+P479351,Supergoop!,46.0,Skincare
+P429954,Tata Harper,88.0,Skincare
+P468640,COOLA,48.0,Skincare
+P462747,Tata Harper,46.0,Skincare
+P464234,Dr. Zenovia Skincare,72.0,Skincare
+P424378,Drunk Elephant,38.0,Skincare
+P482269,Josie Maran,46.0,Skincare
+P454095,REN Clean Skincare,37.0,Skincare
+P502326,Dermalogica,79.0,Skincare
+P504309,ROSE INC,46.0,Skincare
+P504433,Paula's Choice,58.0,Skincare
+P296413,Algenist,28.0,Skincare
+P469510,Paula's Choice,62.0,Skincare
+P470058,Supergoop!,42.0,Skincare
+P455613,alpyn beauty,62.0,Skincare
+P484067,REN Clean Skincare,60.0,Skincare
+P417867,Tatcha,125.0,Skincare
+P433143,Murad,49.0,Skincare
+P464235,Dr. Zenovia Skincare,72.0,Skincare
+P462891,Origins,46.0,Skincare
+P503747,CLINIQUE,38.0,Skincare
+P500716,Algenist,88.0,Skincare
+P505049,Skinfix,54.0,Skincare
+P483708,Sulwhasoo,28.0,Skincare
+P483692,Sulwhasoo,120.0,Skincare
+P461667,ONE/SIZE by Patrick Starrr,18.0,Skincare
+P442752,The Ordinary,30.9,Skincare
+P501781,Peace Out,28.0,Skincare
+P467973,Shani Darden Skin Care,68.0,Skincare
+P478731,Shani Darden Skin Care,88.0,Skincare
+P38217,Murad,45.0,Skincare
+P107306,Murad,89.0,Skincare
+P447785,Dr. Barbara Sturm,145.0,Skincare
+P481096,Herbivore,65.0,Skincare
+P91627362,ONE/SIZE by Patrick Starrr,24.0,Skincare
+P480629,Peace Out,29.0,Skincare
+P471039,iNNBEAUTY PROJECT,17.0,Skincare
+P458546,LAWLESS,32.0,Skincare
+P501190,Dr. Dennis Gross Skincare,75.0,Skincare
+P501243,goop,98.0,Skincare
+P420143,Tata Harper,75.0,Skincare
+P500098,Community Sixty-Six,16.0,Skincare
+P442753,The Ordinary,9.4,Skincare
+P474824,Dr. Dennis Gross Skincare,87.0,Skincare
+P405826,HUM Nutrition,39.0,Skincare
+P435975,Charlotte Tilbury,30.0,Skincare
+P483658,First Aid Beauty,28.0,Skincare
+P442757,The Ordinary,11.1,Skincare
+P379907,Algenist,82.0,Skincare
+P455899,The Ordinary,8.9,Skincare
+P417984,CLINIQUE,44.0,Skincare
+P480160,Caudalie,129.0,Skincare
+P469530,Peace Out,22.0,Skincare
+P500114,Community Sixty-Six,35.0,Skincare
+P400205,Herbivore,74.0,Skincare
+P462339,Bobbi Brown,58.0,Skincare
+P473725,SEPHORA COLLECTION,18.0,Skincare
+P472057,SEPHORA COLLECTION,14.0,Skincare
+P442850,Skinfix,52.0,Skincare
+P433453,FOREO,89.0,Skincare
+P379711,Tata Harper,146.0,Skincare
+P500094,Community Sixty-Six,25.0,Skincare
+P471227,Caudalie,69.0,Skincare
+P398761,Dr. Dennis Gross Skincare,20.0,Skincare
+P429662,Dr. Brandt Skincare,44.0,Skincare
+P296415,Algenist,94.0,Skincare
+P457442,SEPHORA COLLECTION,9.0,Skincare
+P232327,CLINIQUE,30.0,Skincare
+P503197,alpyn beauty,39.0,Skincare
+P504429,SEPHORA COLLECTION,20.0,Skincare
+P427405,The Ordinary,10.5,Skincare
+P458724,SEPHORA COLLECTION,18.0,Skincare
+P469519,Paula's Choice,26.0,Skincare
+P462829,Biossance,28.0,Skincare
+P6028,Caudalie,35.0,Skincare
+P501169,Dr. Dennis Gross Skincare,85.0,Skincare
+P504421,SEPHORA COLLECTION,16.0,Skincare
+P433973,Naturally Serious,32.0,Skincare
+P461935,FOREO,329.0,Skincare
+P474326,Herbivore,46.0,Skincare
+P392945,Algenist,118.0,Skincare
+P481748,TULA Skincare,56.0,Skincare
+P442759,The Ordinary,8.9,Skincare
+P503827,Summer Fridays,69.0,Skincare
+P443837,The INKEY List,7.49,Skincare
+P500039,Nécessaire,60.0,Skincare
+P405944,Shiseido,42.0,Skincare
+P423135,Dermalogica,94.0,Skincare
+P122876,CLINIQUE,20.0,Skincare
+P422257,Kiehl's Since 1851,35.0,Skincare
+P477492,alpyn beauty,49.0,Skincare
+P468396,Origins,61.0,Skincare
+P270543,Bobbi Brown,66.0,Skincare
+P483127,iNNBEAUTY PROJECT,48.0,Skincare
+P503992,MARA,58.0,Skincare
+P440937,Kiehl's Since 1851,55.0,Skincare
+P469862,Freck Beauty,34.0,Skincare
+P481367,CAY SKIN,14.0,Skincare
+P474971,Peace Out,28.0,Skincare
+P282935,Algenist,94.0,Skincare
+P469511,Paula's Choice,52.0,Skincare
+P232902,Kate Somerville,44.0,Skincare
+P453713,HUM Nutrition,12.0,Skincare
+P479352,Tatcha,62.0,Skincare
+P479353,The INKEY List,10.99,Skincare
+P428240,Dermalogica,55.0,Skincare
+P503690,Peter Thomas Roth,58.0,Skincare
+P500244,Peter Thomas Roth,65.0,Skincare
+P474325,Herbivore,46.0,Skincare
+P481335,RANAVAT,135.0,Skincare
+P482529,Estée Lauder,130.0,Skincare
+P469507,Paula's Choice,39.0,Skincare
+P475932,EADEM,68.0,Skincare
+P432831,Moon Juice,58.0,Skincare
+P407387,HUM Nutrition,10.0,Skincare
+P476028,Summer Fridays,55.0,Skincare
+P501213,Biossance,72.0,Skincare
+P503867,LANEIGE,39.0,Skincare
+P480284,Caudalie,139.0,Skincare
+P504028,The Ordinary,25.0,Skincare
+P482552,Tatcha,70.0,Skincare
+P471033,Herbivore,50.0,Skincare
+P386739,Tata Harper,130.0,Skincare
+P469818,Freck Beauty,32.0,Skincare
+P504644,PROVEN Skincare,169.99,Skincare
+P500112,HABIT,30.0,Skincare
+P385253,Origins,63.0,Skincare
+P448201,Shiseido,75.0,Skincare
+P474809,Algenist,72.0,Skincare
+P500055,KORA Organics,48.0,Skincare
+P455898,The Ordinary,11.1,Skincare
+P449541,Kiehl's Since 1851,75.0,Skincare
+P471038,iNNBEAUTY PROJECT,17.0,Skincare
+P420230,tarte,16.0,Skincare
+P416552,Algenist,95.0,Skincare
+P483136,SEPHORA COLLECTION,20.0,Skincare
+P475084,Clarins,93.0,Skincare
+P504043,OLEHENRIKSEN,58.0,Skincare
+P481354,RANAVAT,95.0,Skincare
+P501030,LANEIGE,39.0,Skincare
+P423134,Dermalogica,69.0,Skincare
+P455338,The Ordinary,6.4,Skincare
+P438637,BeautyBio,40.0,Skincare
+P473729,SEPHORA COLLECTION,10.0,Skincare
+P470040,Kiehl's Since 1851,38.0,Skincare
+P469520,Paula's Choice,22.0,Skincare
+P122651,CLINIQUE,20.0,Skincare
+P503250,Fenty Skin,42.0,Skincare
+P423127,Dermalogica,42.0,Skincare
+P432243,CLINIQUE,32.0,Skincare
+P472023,DAMDAM,38.0,Skincare
+P392607,Peter Thomas Roth,85.0,Skincare
+P472025,DAMDAM,46.0,Skincare
+P479722,The INKEY List,11.99,Skincare
+P417241,La Mer,270.0,Skincare
+P482753,TULA Skincare,38.0,Skincare
+P473133,Naturally Serious,27.0,Skincare
+P421997,Kiehl's Since 1851,47.0,Skincare
+P424989,TAN-LUXE,60.0,Skincare
+P500329,Kosas,25.0,Skincare
+P474329,iNNBEAUTY PROJECT,25.0,Skincare
+P480628,Paula's Choice,49.0,Skincare
+P416312,Skin Laundry,20.0,Skincare
+P473172,REN Clean Skincare,54.0,Skincare
+P500420,Augustinus Bader,180.0,Skincare
+P456194,Clarins,96.0,Skincare
+P417242,La Mer,75.0,Skincare
+P471009,Caudalie,42.0,Skincare
+P455623,BeautyBio,69.0,Skincare
+P505139,Dermalogica,125.0,Skincare
+P432239,Kiehl's Since 1851,28.0,Skincare
+P476459,The Nue Co.,30.0,Skincare
+P429043,DERMAFLASH,199.0,Skincare
+P472455,Caudalie,52.0,Skincare
+P470217,Dr. Brandt Skincare,67.0,Skincare
+P481145,ROSE INC,70.0,Skincare
+P504073,The Outset,44.0,Skincare
+P422248,Kiehl's Since 1851,28.0,Skincare
+P500696,ROSE INC,55.0,Skincare
+P448853,Tower 28 Beauty,12.0,Skincare
+P448934,IT Cosmetics,34.0,Skincare
+P431847,HUM Nutrition,26.0,Skincare
+P483697,The Outset,46.0,Skincare
+P467115,First Aid Beauty,42.0,Skincare
+P482260,DAMDAM,68.0,Skincare
+P501157,Dr. Dennis Gross Skincare,68.0,Skincare
+P471541,Caudalie,45.0,Skincare
+P475201,TULA Skincare,38.0,Skincare
+P479319,Fenty Skin,42.0,Skincare
+P476010,ROSE INC,32.0,Skincare
+P504315,ROSE INC,15.0,Skincare
+P504171,Glow Recipe,34.0,Skincare
+P461522,SEPHORA COLLECTION,3.0,Skincare
+P474068,KORA Organics,44.0,Skincare
+P504076,The Outset,34.0,Skincare
+P385632,CLINIQUE,32.5,Skincare
+P422011,Kiehl's Since 1851,24.0,Skincare
+P448192,fresh,15.0,Skincare
+P503865,iNNBEAUTY PROJECT,34.0,Skincare
+P403315,Tatcha,98.0,Skincare
+P424986,TAN-LUXE,38.0,Skincare
+P468211,Saie,38.0,Skincare
+P443369,Dermalogica,89.0,Skincare
+P481336,RANAVAT,75.0,Skincare
+P472448,BeautyBio,69.0,Skincare
+P483453,Hanni,68.0,Skincare
+P432824,Mount Lai,36.0,Skincare
+P481142,Peter Thomas Roth,65.0,Skincare
+P465365,Peace Out,25.0,Skincare
+P440981,Flora + Bast,77.0,Skincare
+P448932,Kate Somerville,110.0,Skincare
+P444216,Naturally Serious,37.0,Skincare
+P468813,Caudalie,30.0,Skincare
+P469444,Caudalie,30.0,Skincare
+P481363,RANAVAT,45.0,Skincare
+P443834,The INKEY List,11.99,Skincare
+P502852,NuFACE,245.0,Skincare
+P467748,Caudalie,62.0,Skincare
+P440305,Kate Somerville,44.0,Skincare
+P503923,Herbivore,48.0,Skincare
+P4039,Murad,65.0,Skincare
+P504212,LANEIGE,26.0,Skincare
+P503657,Caudalie,129.0,Skincare
+P461491,Saint Jane Beauty,65.0,Skincare
+P481371,RANAVAT,45.0,Skincare
+P455339,The Ordinary,7.8,Skincare
+P430812,Peter Thomas Roth,38.0,Skincare
+P467749,Caudalie,72.0,Skincare
+P468369,IT Cosmetics,69.0,Skincare
+P402942,Slip,50.0,Skincare
+P450583,Herbivore,54.0,Skincare
+P424990,TAN-LUXE,34.0,Skincare
+P432818,PMD,99.0,Skincare
+P392144,Tata Harper,88.0,Skincare
+P481348,Paula's Choice,62.0,Skincare
+P461948,Kiehl's Since 1851,76.0,Skincare
+P462748,Tata Harper,46.0,Skincare
+P482695,LANEIGE,40.0,Skincare
+P122767,CLINIQUE,28.0,Skincare
+P471000,Algenist,65.0,Skincare
+P433971,Naturally Serious,35.0,Skincare
+P504575,HUM Nutrition,26.0,Skincare
+P440503,Mario Badescu,8.0,Skincare
+P455614,alpyn beauty,36.0,Skincare
+P455612,alpyn beauty,59.0,Skincare
+P427404,The Ordinary,19.8,Skincare
+P467250,Fenty Skin,45.0,Skincare
+P477961,BeautyBio,199.0,Skincare
+P504240,Fenty Skin,26.0,Skincare
+P476009,ROSE INC,74.0,Skincare
+P476447,The Nue Co.,45.0,Skincare
+P471793,Paula's Choice,29.0,Skincare
+P392648,Bobbi Brown,74.0,Skincare
+P217931,Lancôme,31.0,Skincare
+P480274,Algenist,40.0,Skincare
+P500102,MILK MAKEUP,36.0,Skincare
+P398717,CLINIQUE,32.5,Skincare
+P448200,Shiseido,75.0,Skincare
+P500121,Tower 28 Beauty,34.0,Skincare
+P473726,SEPHORA COLLECTION,12.0,Skincare
+P476538,The Nue Co.,55.0,Skincare
+P442755,The Ordinary,10.0,Skincare
+P442756,The Ordinary,14.3,Skincare
+P442713,First Aid Beauty,44.0,Skincare
+P472451,Caudalie,42.0,Skincare
+P429683,St. Tropez,44.0,Skincare
+P501518,Mount Lai,60.0,Skincare
+P465752,Drunk Elephant,22.0,Skincare
+P408230,Clarins,67.0,Skincare
+P416825,First Aid Beauty,58.0,Skincare
+P387511,L'Occitane,115.0,Skincare
+P474371,REN Clean Skincare,38.0,Skincare
+P432053,Sunday Riley,28.0,Skincare
+P456421,KORRES,61.0,Skincare
+P473304,Drunk Elephant,38.0,Skincare
+P422012,Kiehl's Since 1851,38.0,Skincare
+P416824,CLINIQUE,85.0,Skincare
+P461520,SEPHORA COLLECTION,5.0,Skincare
+P418221,COOLA,54.0,Skincare
+P457697,Kate Somerville,98.0,Skincare
+P423125,Dermalogica,66.0,Skincare
+P500687,iNNBEAUTY PROJECT,26.0,Skincare
+P483455,Hanni,42.0,Skincare
+P504056,REN Clean Skincare,55.0,Skincare
+P449158,fresh,22.0,Skincare
+P470007,Caudalie,30.0,Skincare
+P476554,The Nue Co.,45.0,Skincare
+P500626,SEPHORA COLLECTION,12.0,Skincare
+P474113,StriVectin,95.0,Skincare
+P474117,StriVectin,15.0,Skincare
+P481703,fresh,95.0,Skincare
+P428255,Dior,110.0,Skincare
+P481828,NUDESTIX,36.0,Skincare
+P450290,La Mer,410.0,Skincare
+P431840,Herbivore,22.0,Skincare
+P481825,LANEIGE,30.0,Skincare
+P483699,The Outset,54.0,Skincare
+P483457,Hanni,24.0,Skincare
+P481701,EADEM,58.0,Skincare
+P443358,Dermalogica,47.0,Skincare
+P377576,CLINIQUE,54.0,Skincare
+P404465,GLO Science,24.0,Skincare
+P465803,SEPHORA COLLECTION,20.0,Skincare
+P476553,The Nue Co.,45.0,Skincare
+P500988,Herbivore,48.0,Skincare
+P483643,alpyn beauty,28.0,Skincare
+P447213,SOBEL SKIN Rx,105.0,Skincare
+P467614,Dr. Brandt Skincare,120.0,Skincare
+P449177,Dermalogica,155.0,Skincare
+P505158,Peter Thomas Roth,42.0,Skincare
+P443839,The INKEY List,12.99,Skincare
+P481700,Dr. Jart+,39.0,Skincare
+P427393,Dr. Dennis Gross Skincare,55.0,Skincare
+P474823,Dr. Dennis Gross Skincare,82.0,Skincare
+P416755,Dr. Dennis Gross Skincare,65.0,Skincare
+P469505,Paula's Choice,46.0,Skincare
+P383053,Dr. Brandt Skincare,82.0,Skincare
+P388545,Shiseido,35.0,Skincare
+P478239,Caudalie,42.0,Skincare
+P457696,Kate Somerville,44.0,Skincare
+P476428,Hyper Skin,58.0,Skincare
+P456395,innisfree,22.0,Skincare
+P419633,FOREO,159.0,Skincare
+P443383,CLINIQUE,37.0,Skincare
+P502395,Sulwhasoo,210.0,Skincare
+P479313,Dr. Dennis Gross Skincare,77.0,Skincare
+P442833,The Ordinary,11.1,Skincare
+P455930,Shani Darden Skin Care,48.0,Skincare
+P443366,Dermalogica,69.0,Skincare
+P502745,Kosas,48.0,Skincare
+P474936,Caudalie,38.0,Skincare
+P500101,MILK MAKEUP,32.0,Skincare
