@@ -1,32 +1,40 @@
-# Ignore dataset files
-data/**/*.csv
-data/**/*.json
-data/**/*.parquet
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
 
-# Ignore notebooks’ auto-saves
+# Virtual environment folders
+env/
+venv/
+environment/
+
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore virtual environments
-venv*/
-.env/
+# Dataset files
+data/
+*.csv
+*.tsv
+*.xlsx
+*.json
 
-# Python cache files
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+# Model files
+models/
+*.h5
+*.pkl
+*.joblib
+*.pt
+
+# Logs and temp files
+logs/
+*.log
+*.tmp
+*.temp
 
 # System files
 .DS_Store
+Thumbs.db
 
-# IDE & editor settings
+# Other IDE or OS-specific files
 .vscode/
 .idea/
-
-# Large packages or builds
-*.egg-info/
-*.dll
-
-# Optional: model weights & logs
-models/
-logs/
+*.swp
