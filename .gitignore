@@ -1,13 +1,32 @@
 # Ignore dataset files
-data/*.csv
-data/*.json
+data/**/*.csv
+data/**/*.json
+data/**/*.parquet
+
+# Ignore notebooks’ auto-saves
+.ipynb_checkpoints/
 
 # Ignore virtual environments
-venv/
+venv*/
 .env/
 
-# Ignore temporary files
+# Python cache files
 __pycache__/
-.ipynb_checkpoints/
 *.pyc
+*.pyo
+*.pyd
+
+# System files
 .DS_Store
+
+# IDE & editor settings
+.vscode/
+.idea/
+
+# Large packages or builds
+*.egg-info/
+*.dll
+
+# Optional: model weights & logs
+models/
+logs/
